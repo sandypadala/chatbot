@@ -1,0 +1,233 @@
+{
+  "name": "tiktoken",
+  "version": "0.12.0",
+  "build": "py313hb0f918e_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "tiktoken-0.12.0-py313hb0f918e_0.conda",
+  "md5": "5f66d7a4e426e05d71203fc670d9e97b",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/tiktoken-0.12.0-py313hb0f918e_0.conda",
+  "sha256": "7ab839cdcdca1da639cb92e751fe1d61f5ea6bc5aaa98ce0549412c548a7808b",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "regex >=2022.1.18",
+    "requests >=2.26.0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [
+    "blobfile >=2"
+  ],
+  "license": "MIT",
+  "timestamp": 1767948480000,
+  "size": 735950,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\padal\\anaconda3\\pkgs\\tiktoken-0.12.0-py313hb0f918e_0.conda",
+  "extracted_package_dir": "C:\\Users\\padal\\anaconda3\\pkgs\\tiktoken-0.12.0-py313hb0f918e_0",
+  "files": [
+    "Lib/site-packages/tiktoken-0.12.0.dist-info/INSTALLER",
+    "Lib/site-packages/tiktoken-0.12.0.dist-info/METADATA",
+    "Lib/site-packages/tiktoken-0.12.0.dist-info/RECORD",
+    "Lib/site-packages/tiktoken-0.12.0.dist-info/REQUESTED",
+    "Lib/site-packages/tiktoken-0.12.0.dist-info/WHEEL",
+    "Lib/site-packages/tiktoken-0.12.0.dist-info/direct_url.json",
+    "Lib/site-packages/tiktoken-0.12.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/tiktoken-0.12.0.dist-info/top_level.txt",
+    "Lib/site-packages/tiktoken/__init__.py",
+    "Lib/site-packages/tiktoken/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/tiktoken/__pycache__/_educational.cpython-313.pyc",
+    "Lib/site-packages/tiktoken/__pycache__/core.cpython-313.pyc",
+    "Lib/site-packages/tiktoken/__pycache__/load.cpython-313.pyc",
+    "Lib/site-packages/tiktoken/__pycache__/model.cpython-313.pyc",
+    "Lib/site-packages/tiktoken/__pycache__/registry.cpython-313.pyc",
+    "Lib/site-packages/tiktoken/_educational.py",
+    "Lib/site-packages/tiktoken/_tiktoken.cp313-win_amd64.pyd",
+    "Lib/site-packages/tiktoken/core.py",
+    "Lib/site-packages/tiktoken/load.py",
+    "Lib/site-packages/tiktoken/model.py",
+    "Lib/site-packages/tiktoken/py.typed",
+    "Lib/site-packages/tiktoken/registry.py",
+    "Lib/site-packages/tiktoken_ext/__pycache__/openai_public.cpython-313.pyc",
+    "Lib/site-packages/tiktoken_ext/openai_public.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/tiktoken-0.12.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken-0.12.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "354ec6e42f924b6b7f4dd24ba913ea996f00f33b95e4c3d09de06df0a1d2d3ef",
+        "size_in_bytes": 6859,
+        "sha256_in_prefix": "354ec6e42f924b6b7f4dd24ba913ea996f00f33b95e4c3d09de06df0a1d2d3ef"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken-0.12.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "dabc813bd3850e0f198b009c5ec50b699b1f66ae109d5bc462eea56061c69975",
+        "size_in_bytes": 1752,
+        "sha256_in_prefix": "dabc813bd3850e0f198b009c5ec50b699b1f66ae109d5bc462eea56061c69975"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken-0.12.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken-0.12.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "a95d0420f9638f55c2fefb926ad4568e7d369d9233dcdd6df23b19cfb1c1af65",
+        "size_in_bytes": 101,
+        "sha256_in_prefix": "a95d0420f9638f55c2fefb926ad4568e7d369d9233dcdd6df23b19cfb1c1af65"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken-0.12.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "30373b23fbeebf3bda062aee868f406c7f87085d54c800c0aa58ad2225cdfb2f",
+        "size_in_bytes": 98,
+        "sha256_in_prefix": "30373b23fbeebf3bda062aee868f406c7f87085d54c800c0aa58ad2225cdfb2f"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken-0.12.0.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "418cb499b436128d653d79941333a5437b7be2ea9213dcc2f04d15d5d2c51d86",
+        "size_in_bytes": 1078,
+        "sha256_in_prefix": "418cb499b436128d653d79941333a5437b7be2ea9213dcc2f04d15d5d2c51d86"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken-0.12.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "e781b931c7909ee0fb117be9ee3cc6c430daa40d623b0b21efb8e108df562a47",
+        "size_in_bytes": 22,
+        "sha256_in_prefix": "e781b931c7909ee0fb117be9ee3cc6c430daa40d623b0b21efb8e108df562a47"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7879646a489b3b8dfed75245409520a42f33dafe080f5af79772d78ccc84c0a7",
+        "size_in_bytes": 346,
+        "sha256_in_prefix": "7879646a489b3b8dfed75245409520a42f33dafe080f5af79772d78ccc84c0a7"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "4d7c84afe63d324bd8b6ac1c7d696a737658df5c38a052fe5a6097b34bf32e2a",
+        "size_in_bytes": 390,
+        "sha256_in_prefix": "4d7c84afe63d324bd8b6ac1c7d696a737658df5c38a052fe5a6097b34bf32e2a"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken/__pycache__/_educational.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "f5007791ba7c8606d18ace29aa176e8a67c5cb8ece8ee00887b6f0c9c60fe39a",
+        "size_in_bytes": 10030,
+        "sha256_in_prefix": "f5007791ba7c8606d18ace29aa176e8a67c5cb8ece8ee00887b6f0c9c60fe39a"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken/__pycache__/core.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "4146a022ff4199282b245ac9c44f9057f5d3cbea97208808c9247e4420169ed8",
+        "size_in_bytes": 20872,
+        "sha256_in_prefix": "4146a022ff4199282b245ac9c44f9057f5d3cbea97208808c9247e4420169ed8"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken/__pycache__/load.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "295da01528400fbc9bd40095dd47a3e8ec72e22f6ad8e258188888a2c9805d7e",
+        "size_in_bytes": 8694,
+        "sha256_in_prefix": "295da01528400fbc9bd40095dd47a3e8ec72e22f6ad8e258188888a2c9805d7e"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken/__pycache__/model.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "d5a0dc9fbe36ee16f233ae9c6fe8d3a341ca8c3e6f676d570f7170ea87890f88",
+        "size_in_bytes": 3544,
+        "sha256_in_prefix": "d5a0dc9fbe36ee16f233ae9c6fe8d3a341ca8c3e6f676d570f7170ea87890f88"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken/__pycache__/registry.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "d2a4513cfbdcf415623104f7bc71fb6bc53a37fa639d90df4b9eea2f5a851200",
+        "size_in_bytes": 3764,
+        "sha256_in_prefix": "d2a4513cfbdcf415623104f7bc71fb6bc53a37fa639d90df4b9eea2f5a851200"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken/_educational.py",
+        "path_type": "hardlink",
+        "sha256": "4d414ea7c43dd568eb4ef18a842344cab86dbdaf365257a75df84fcbdcd2ed54",
+        "size_in_bytes": 8229,
+        "sha256_in_prefix": "4d414ea7c43dd568eb4ef18a842344cab86dbdaf365257a75df84fcbdcd2ed54"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken/_tiktoken.cp313-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "93e2ecda1370e4bb3b30534d3fda3027e87c847b73a1c64cd196315342d91868",
+        "size_in_bytes": 2333512,
+        "sha256_in_prefix": "93e2ecda1370e4bb3b30534d3fda3027e87c847b73a1c64cd196315342d91868"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken/core.py",
+        "path_type": "hardlink",
+        "sha256": "4c2c0e4657adb5997e75ae7962ca79d9394b935f27283e9eeb643fd19140e34e",
+        "size_in_bytes": 17458,
+        "sha256_in_prefix": "4c2c0e4657adb5997e75ae7962ca79d9394b935f27283e9eeb643fd19140e34e"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken/load.py",
+        "path_type": "hardlink",
+        "sha256": "7614ce8952089db86243fce6b4e643b212afa922b35f234e24958f989d12f515",
+        "size_in_bytes": 5919,
+        "sha256_in_prefix": "7614ce8952089db86243fce6b4e643b212afa922b35f234e24958f989d12f515"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken/model.py",
+        "path_type": "hardlink",
+        "sha256": "779ee48b1b24b08bfa5444a77558ef9860518fc2eb485180c14095e7166dc519",
+        "size_in_bytes": 4061,
+        "sha256_in_prefix": "779ee48b1b24b08bfa5444a77558ef9860518fc2eb485180c14095e7166dc519"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken/registry.py",
+        "path_type": "hardlink",
+        "sha256": "edf92d65b27529c9bcb15c968047c8cbe6717d4bdc5eea4b50d5ca3df486c105",
+        "size_in_bytes": 3256,
+        "sha256_in_prefix": "edf92d65b27529c9bcb15c968047c8cbe6717d4bdc5eea4b50d5ca3df486c105"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken_ext/__pycache__/openai_public.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "7e819a81ecd5b0761c204944d9393b19e40047fbd3e3ae1c0aecbb5253754f0a",
+        "size_in_bytes": 4629,
+        "sha256_in_prefix": "7e819a81ecd5b0761c204944d9393b19e40047fbd3e3ae1c0aecbb5253754f0a"
+      },
+      {
+        "_path": "Lib/site-packages/tiktoken_ext/openai_public.py",
+        "path_type": "hardlink",
+        "sha256": "954392738e60d0fb6dca1dad80872efc47c8e2733babecbbf0a23970ed66c2cb",
+        "size_in_bytes": 5613,
+        "sha256_in_prefix": "954392738e60d0fb6dca1dad80872efc47c8e2733babecbbf0a23970ed66c2cb"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\padal\\anaconda3\\pkgs\\tiktoken-0.12.0-py313hb0f918e_0",
+    "type": 1
+  }
+}

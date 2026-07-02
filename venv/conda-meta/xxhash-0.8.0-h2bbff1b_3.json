@@ -1,0 +1,114 @@
+{
+  "name": "xxhash",
+  "version": "0.8.0",
+  "build": "h2bbff1b_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "xxhash-0.8.0-h2bbff1b_3.conda",
+  "md5": "1e4e655f9aa1e2783317ff20903fea89",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/xxhash-0.8.0-h2bbff1b_3.conda",
+  "sha256": "c1675ac3a81ee2c57771a9b941e2b847d9330b0f84234de1bf412714b6e6a03e",
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "BSD-2-Clause",
+  "timestamp": 1633082399000,
+  "size": 89482,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\padal\\anaconda3\\pkgs\\xxhash-0.8.0-h2bbff1b_3.conda",
+  "extracted_package_dir": "C:\\Users\\padal\\anaconda3\\pkgs\\xxhash-0.8.0-h2bbff1b_3",
+  "files": [
+    "Library/bin/xxhash.dll",
+    "Library/bin/xxhsum.exe",
+    "Library/include/xxh3.h",
+    "Library/include/xxhash.h",
+    "Library/lib/cmake/xxHash/xxHashConfig.cmake",
+    "Library/lib/cmake/xxHash/xxHashConfigVersion.cmake",
+    "Library/lib/cmake/xxHash/xxHashTargets-release.cmake",
+    "Library/lib/cmake/xxHash/xxHashTargets.cmake",
+    "Library/lib/xxhash.lib",
+    "Library/share/man/man1/xxhsum.1"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/xxhash.dll",
+        "path_type": "hardlink",
+        "sha256": "7de9d179e9bdc37203170801d1038890811e743ff835953592c9f0e89cccea6d",
+        "size_in_bytes": 46592,
+        "sha256_in_prefix": "7de9d179e9bdc37203170801d1038890811e743ff835953592c9f0e89cccea6d"
+      },
+      {
+        "_path": "Library/bin/xxhsum.exe",
+        "path_type": "hardlink",
+        "sha256": "40a45327da1293c1ba4815e5b1af1e400a60e6412b804321c6b4d356e8fe3b89",
+        "size_in_bytes": 48128,
+        "sha256_in_prefix": "40a45327da1293c1ba4815e5b1af1e400a60e6412b804321c6b4d356e8fe3b89"
+      },
+      {
+        "_path": "Library/include/xxh3.h",
+        "path_type": "hardlink",
+        "sha256": "0470da54e967f02effb3ca436d42c5fe203cb3ef9507cbe41bcac1afd17d1375",
+        "size_in_bytes": 2393,
+        "sha256_in_prefix": "0470da54e967f02effb3ca436d42c5fe203cb3ef9507cbe41bcac1afd17d1375"
+      },
+      {
+        "_path": "Library/include/xxhash.h",
+        "path_type": "hardlink",
+        "sha256": "56586c4d24904af1e57b0c4d2c2ff723cc41911a49a27b2497debf179536bc1f",
+        "size_in_bytes": 184809,
+        "sha256_in_prefix": "56586c4d24904af1e57b0c4d2c2ff723cc41911a49a27b2497debf179536bc1f"
+      },
+      {
+        "_path": "Library/lib/cmake/xxHash/xxHashConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "50a0e9df3bff9e2671027826ad4ecc0469fb043f9ede38080f3d393b05db7379",
+        "size_in_bytes": 964,
+        "sha256_in_prefix": "50a0e9df3bff9e2671027826ad4ecc0469fb043f9ede38080f3d393b05db7379"
+      },
+      {
+        "_path": "Library/lib/cmake/xxHash/xxHashConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "0af68566cbda909650f21d0d6babf22eb20ddb85519ed9ca72b4d4c517412a4f",
+        "size_in_bytes": 2025,
+        "sha256_in_prefix": "0af68566cbda909650f21d0d6babf22eb20ddb85519ed9ca72b4d4c517412a4f"
+      },
+      {
+        "_path": "Library/lib/cmake/xxHash/xxHashTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "561e153823edbf8eaf540e4c98d9b5fba19ae2876ed5f92320052fb0e15f465b",
+        "size_in_bytes": 1304,
+        "sha256_in_prefix": "561e153823edbf8eaf540e4c98d9b5fba19ae2876ed5f92320052fb0e15f465b"
+      },
+      {
+        "_path": "Library/lib/cmake/xxHash/xxHashTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "ac19642e0dbd0281e01df85de2801668127339f7bee8cc82d29de6b6acaa5260",
+        "size_in_bytes": 3498,
+        "sha256_in_prefix": "ac19642e0dbd0281e01df85de2801668127339f7bee8cc82d29de6b6acaa5260"
+      },
+      {
+        "_path": "Library/lib/xxhash.lib",
+        "path_type": "hardlink",
+        "sha256": "0ffeedc0d1ab9fc959443aa5aa1fe8e486e7bd7c142adbb6ca4942f2ecd19c8c",
+        "size_in_bytes": 10766,
+        "sha256_in_prefix": "0ffeedc0d1ab9fc959443aa5aa1fe8e486e7bd7c142adbb6ca4942f2ecd19c8c"
+      },
+      {
+        "_path": "Library/share/man/man1/xxhsum.1",
+        "path_type": "hardlink",
+        "sha256": "6a162f07a9509042b11927c51c8b737b35561cfeaaabb3b746c14720192eba93",
+        "size_in_bytes": 4651,
+        "sha256_in_prefix": "6a162f07a9509042b11927c51c8b737b35561cfeaaabb3b746c14720192eba93"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\padal\\anaconda3\\pkgs\\xxhash-0.8.0-h2bbff1b_3",
+    "type": 1
+  }
+}

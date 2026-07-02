@@ -1,0 +1,429 @@
+{
+  "name": "langchain-openai",
+  "version": "1.1.7",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "langchain-openai-1.1.7-py313haa95532_0.conda",
+  "md5": "f8a4170cb5ae4efb2c5929eb3a366883",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/langchain-openai-1.1.7-py313haa95532_0.conda",
+  "sha256": "0372464e6c13c7d759d079064be66e28824eee46426898c0b5c93b905921e64b",
+  "depends": [
+    "langchain-core >=1.2.6,<2.0.0",
+    "openai >=1.109.1,<3.0.0",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "tiktoken >=0.7,<1.0.0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1769532263000,
+  "size": 177932,
+  "requested_spec": "langchain-openai",
+  "package_tarball_full_path": "C:\\Users\\padal\\anaconda3\\pkgs\\langchain-openai-1.1.7-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\padal\\anaconda3\\pkgs\\langchain-openai-1.1.7-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/langchain_openai-1.1.7.dist-info/INSTALLER",
+    "Lib/site-packages/langchain_openai-1.1.7.dist-info/METADATA",
+    "Lib/site-packages/langchain_openai-1.1.7.dist-info/RECORD",
+    "Lib/site-packages/langchain_openai-1.1.7.dist-info/REQUESTED",
+    "Lib/site-packages/langchain_openai-1.1.7.dist-info/WHEEL",
+    "Lib/site-packages/langchain_openai-1.1.7.dist-info/direct_url.json",
+    "Lib/site-packages/langchain_openai-1.1.7.dist-info/licenses/LICENSE",
+    "Lib/site-packages/langchain_openai/__init__.py",
+    "Lib/site-packages/langchain_openai/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/chat_models/__init__.py",
+    "Lib/site-packages/langchain_openai/chat_models/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/chat_models/__pycache__/_client_utils.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/chat_models/__pycache__/_compat.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/chat_models/__pycache__/azure.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/chat_models/__pycache__/base.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/chat_models/_client_utils.py",
+    "Lib/site-packages/langchain_openai/chat_models/_compat.py",
+    "Lib/site-packages/langchain_openai/chat_models/azure.py",
+    "Lib/site-packages/langchain_openai/chat_models/base.py",
+    "Lib/site-packages/langchain_openai/data/__init__.py",
+    "Lib/site-packages/langchain_openai/data/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/data/__pycache__/_profiles.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/data/_profiles.py",
+    "Lib/site-packages/langchain_openai/data/profile_augmentations.toml",
+    "Lib/site-packages/langchain_openai/embeddings/__init__.py",
+    "Lib/site-packages/langchain_openai/embeddings/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/embeddings/__pycache__/azure.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/embeddings/__pycache__/base.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/embeddings/azure.py",
+    "Lib/site-packages/langchain_openai/embeddings/base.py",
+    "Lib/site-packages/langchain_openai/llms/__init__.py",
+    "Lib/site-packages/langchain_openai/llms/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/llms/__pycache__/azure.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/llms/__pycache__/base.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/llms/azure.py",
+    "Lib/site-packages/langchain_openai/llms/base.py",
+    "Lib/site-packages/langchain_openai/middleware/__init__.py",
+    "Lib/site-packages/langchain_openai/middleware/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/middleware/__pycache__/openai_moderation.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/middleware/openai_moderation.py",
+    "Lib/site-packages/langchain_openai/output_parsers/__init__.py",
+    "Lib/site-packages/langchain_openai/output_parsers/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/output_parsers/__pycache__/tools.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/output_parsers/tools.py",
+    "Lib/site-packages/langchain_openai/py.typed",
+    "Lib/site-packages/langchain_openai/tools/__init__.py",
+    "Lib/site-packages/langchain_openai/tools/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/tools/__pycache__/custom_tool.cpython-313.pyc",
+    "Lib/site-packages/langchain_openai/tools/custom_tool.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/langchain_openai-1.1.7.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai-1.1.7.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "bb8b84468838eafcee5413161201a16f0d6dd7fbbfca492d3140fd6efb2a2faa",
+        "size_in_bytes": 2558,
+        "sha256_in_prefix": "bb8b84468838eafcee5413161201a16f0d6dd7fbbfca492d3140fd6efb2a2faa"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai-1.1.7.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "652ffc12a83a4990ecba073e5c7f0efe122b507a81ea48cbd479d82facb6dcdc",
+        "size_in_bytes": 4036,
+        "sha256_in_prefix": "652ffc12a83a4990ecba073e5c7f0efe122b507a81ea48cbd479d82facb6dcdc"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai-1.1.7.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai-1.1.7.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+        "size_in_bytes": 87,
+        "sha256_in_prefix": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai-1.1.7.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "db9a3679a5bb9de95acefd5cdd694ab6a6d109778c40e02a9c9f1ea24baebca8",
+        "size_in_bytes": 106,
+        "sha256_in_prefix": "db9a3679a5bb9de95acefd5cdd694ab6a6d109778c40e02a9c9f1ea24baebca8"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai-1.1.7.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "0e9a6675825549cd637746a2a3aa6d9cc527e6d207add021435d927251017c18",
+        "size_in_bytes": 1072,
+        "sha256_in_prefix": "0e9a6675825549cd637746a2a3aa6d9cc527e6d207add021435d927251017c18"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "cf3c08b7ec687fd3528f745ba06b4790dfa0545807b426e823f342ee1c7fa7e6",
+        "size_in_bytes": 450,
+        "sha256_in_prefix": "cf3c08b7ec687fd3528f745ba06b4790dfa0545807b426e823f342ee1c7fa7e6"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "ac5efc5652c688f782a69d78e6616e77e675f7604ff9ba3efe543a25783b5899",
+        "size_in_bytes": 580,
+        "sha256_in_prefix": "ac5efc5652c688f782a69d78e6616e77e675f7604ff9ba3efe543a25783b5899"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/chat_models/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b69d77fd9aa09cdc548568ae5103af5800deaaf4e2742b2ca8516e99e9a3b4bb",
+        "size_in_bytes": 203,
+        "sha256_in_prefix": "b69d77fd9aa09cdc548568ae5103af5800deaaf4e2742b2ca8516e99e9a3b4bb"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/chat_models/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "fd32074c2a28b25633763dd7877f2d80dbce4ad1afd7e633ab1052684ce91cd9",
+        "size_in_bytes": 386,
+        "sha256_in_prefix": "fd32074c2a28b25633763dd7877f2d80dbce4ad1afd7e633ab1052684ce91cd9"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/chat_models/__pycache__/_client_utils.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "e538dc41b8647ead955b5463bebbda812fd1459a040370c305f040706372ac70",
+        "size_in_bytes": 5570,
+        "sha256_in_prefix": "e538dc41b8647ead955b5463bebbda812fd1459a040370c305f040706372ac70"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/chat_models/__pycache__/_compat.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "de403d36eaefdd339db9e8471fec6d47f0c744b8b7f6e17a48dbf462c9dda213",
+        "size_in_bytes": 16942,
+        "sha256_in_prefix": "de403d36eaefdd339db9e8471fec6d47f0c744b8b7f6e17a48dbf462c9dda213"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/chat_models/__pycache__/azure.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "89cf1e852854543173b4ed52268720bf7cb1bf7a5325945b383ac2fd4ac282d2",
+        "size_in_bytes": 40403,
+        "sha256_in_prefix": "89cf1e852854543173b4ed52268720bf7cb1bf7a5325945b383ac2fd4ac282d2"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/chat_models/__pycache__/base.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "bac650734095085bce83738d5a7a3c9b648e255297fb767001fad965abdee52a",
+        "size_in_bytes": 156318,
+        "sha256_in_prefix": "bac650734095085bce83738d5a7a3c9b648e255297fb767001fad965abdee52a"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/chat_models/_client_utils.py",
+        "path_type": "hardlink",
+        "sha256": "f51f128b709b2dc83c5eb198efdbc8e662c29ca73377d78088029ab9cbb4fbd9",
+        "size_in_bytes": 4013,
+        "sha256_in_prefix": "f51f128b709b2dc83c5eb198efdbc8e662c29ca73377d78088029ab9cbb4fbd9"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/chat_models/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "1fe2312987e63d4467e39238c5a00ddf05ff73ae277b2292dd523a135701a4e6",
+        "size_in_bytes": 18055,
+        "sha256_in_prefix": "1fe2312987e63d4467e39238c5a00ddf05ff73ae277b2292dd523a135701a4e6"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/chat_models/azure.py",
+        "path_type": "hardlink",
+        "sha256": "e20cc2cc4c3c6b0ba526e48be19e6e6e779b691ea4772d0c685fecd34f0f2914",
+        "size_in_bytes": 44813,
+        "sha256_in_prefix": "e20cc2cc4c3c6b0ba526e48be19e6e6e779b691ea4772d0c685fecd34f0f2914"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/chat_models/base.py",
+        "path_type": "hardlink",
+        "sha256": "3ab193cb94fb49a7f27dd9a620513709183422d2d7ecde5cbe2947f74dcd7b14",
+        "size_in_bytes": 178096,
+        "sha256_in_prefix": "3ab193cb94fb49a7f27dd9a620513709183422d2d7ecde5cbe2947f74dcd7b14"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/data/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "6683386b5004a741dd2b2aaa3720e5e5f16c1a119a29bccfd5656d89821be1e7",
+        "size_in_bytes": 82,
+        "sha256_in_prefix": "6683386b5004a741dd2b2aaa3720e5e5f16c1a119a29bccfd5656d89821be1e7"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/data/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "00f2c7a6e1b020563db010f3d28f1d33b5ef91f53f951d51f1b29064140406bd",
+        "size_in_bytes": 238,
+        "sha256_in_prefix": "00f2c7a6e1b020563db010f3d28f1d33b5ef91f53f951d51f1b29064140406bd"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/data/__pycache__/_profiles.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "1ccbbf4b8eba667c63e81832f2c2b6bfa8db3e73e27120fce55359f47a7c821e",
+        "size_in_bytes": 11746,
+        "sha256_in_prefix": "1ccbbf4b8eba667c63e81832f2c2b6bfa8db3e73e27120fce55359f47a7c821e"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/data/_profiles.py",
+        "path_type": "hardlink",
+        "sha256": "753813d3ba6795e34e08c4fc7582dde2eec94d74648fa6ab8324ebc4e44c0500",
+        "size_in_bytes": 21605,
+        "sha256_in_prefix": "753813d3ba6795e34e08c4fc7582dde2eec94d74648fa6ab8324ebc4e44c0500"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/data/profile_augmentations.toml",
+        "path_type": "hardlink",
+        "sha256": "d3e92f73e88cd80d8d26033c9c0b733f1edca1efd5fbc7cb12d2ba1c34ab68e1",
+        "size_in_bytes": 1030,
+        "sha256_in_prefix": "d3e92f73e88cd80d8d26033c9c0b733f1edca1efd5fbc7cb12d2ba1c34ab68e1"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/embeddings/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "41c583de6da14ad2936d931ad3e38f653e72ef68e81e222c7a3dbb9188cc7b4d",
+        "size_in_bytes": 224,
+        "sha256_in_prefix": "41c583de6da14ad2936d931ad3e38f653e72ef68e81e222c7a3dbb9188cc7b4d"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/embeddings/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "922b856994afc2464a4572240e0a3477382146b38f7b7caf937d406e23665d45",
+        "size_in_bytes": 395,
+        "sha256_in_prefix": "922b856994afc2464a4572240e0a3477382146b38f7b7caf937d406e23665d45"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/embeddings/__pycache__/azure.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "6f094d254424fcae19875e133cc096e58f24652c512773d9c3628e8f23307e55",
+        "size_in_bytes": 7731,
+        "sha256_in_prefix": "6f094d254424fcae19875e133cc096e58f24652c512773d9c3628e8f23307e55"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/embeddings/__pycache__/base.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "5b2938c047509a70664be143821e3beef71adeff85ebb03d463054d937b1ad80",
+        "size_in_bytes": 27583,
+        "sha256_in_prefix": "5b2938c047509a70664be143821e3beef71adeff85ebb03d463054d937b1ad80"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/embeddings/azure.py",
+        "path_type": "hardlink",
+        "sha256": "62e8f0d15b6b03c038a1a512fb9081fd842c1e03608be393cf889c470d9851b1",
+        "size_in_bytes": 9127,
+        "sha256_in_prefix": "62e8f0d15b6b03c038a1a512fb9081fd842c1e03608be393cf889c470d9851b1"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/embeddings/base.py",
+        "path_type": "hardlink",
+        "sha256": "419b204505bde1212572f030e53d6278a984ec82466ed38f9e1783c449cb9770",
+        "size_in_bytes": 30312,
+        "sha256_in_prefix": "419b204505bde1212572f030e53d6278a984ec82466ed38f9e1783c449cb9770"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/llms/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b2c39a50659c99783a873dc95aedfc502b7fd6042f80af8144b5e1048d2eedc6",
+        "size_in_bytes": 218,
+        "sha256_in_prefix": "b2c39a50659c99783a873dc95aedfc502b7fd6042f80af8144b5e1048d2eedc6"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/llms/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "a06a8eac8e6ddb3f1c57fe5a00da856370beed4ae5387a87f15a9ec43d6cd85b",
+        "size_in_bytes": 402,
+        "sha256_in_prefix": "a06a8eac8e6ddb3f1c57fe5a00da856370beed4ae5387a87f15a9ec43d6cd85b"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/llms/__pycache__/azure.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "bde19a958bca153cc6c52bd864268f2792388892a45b9aeb5750c8c1ac769ec3",
+        "size_in_bytes": 8479,
+        "sha256_in_prefix": "bde19a958bca153cc6c52bd864268f2792388892a45b9aeb5750c8c1ac769ec3"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/llms/__pycache__/base.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "ff9493317cf682295600bf4db0f2b15d727f3ece875cdc8a7fabfa97ee3be7c3",
+        "size_in_bytes": 28700,
+        "sha256_in_prefix": "ff9493317cf682295600bf4db0f2b15d727f3ece875cdc8a7fabfa97ee3be7c3"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/llms/azure.py",
+        "path_type": "hardlink",
+        "sha256": "2376d59de2424caa50cedfe66bc3fa84473b1d7a283fc11b0a735546c66a6369",
+        "size_in_bytes": 8752,
+        "sha256_in_prefix": "2376d59de2424caa50cedfe66bc3fa84473b1d7a283fc11b0a735546c66a6369"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/llms/base.py",
+        "path_type": "hardlink",
+        "sha256": "87b5636e246a7da9748fe34202579701220036c3588240bdc4a2a0c5c7e566ec",
+        "size_in_bytes": 30748,
+        "sha256_in_prefix": "87b5636e246a7da9748fe34202579701220036c3588240bdc4a2a0c5c7e566ec"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/middleware/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "535dc1ef7e058c3c4449cc9cfa3ee43999c606aadbc1e61e1b6d572a7e67683a",
+        "size_in_bytes": 219,
+        "sha256_in_prefix": "535dc1ef7e058c3c4449cc9cfa3ee43999c606aadbc1e61e1b6d572a7e67683a"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/middleware/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "0a4b300b99a35b86302b3d8c390e15bb205144c6bc208bbfbb273737b1def695",
+        "size_in_bytes": 369,
+        "sha256_in_prefix": "0a4b300b99a35b86302b3d8c390e15bb205144c6bc208bbfbb273737b1def695"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/middleware/__pycache__/openai_moderation.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "5e776716d4c2b428ddfd749b0522a6c66ed59b8af6c76dc4ace7acb5ca49f001",
+        "size_in_bytes": 17573,
+        "sha256_in_prefix": "5e776716d4c2b428ddfd749b0522a6c66ed59b8af6c76dc4ace7acb5ca49f001"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/middleware/openai_moderation.py",
+        "path_type": "hardlink",
+        "sha256": "41c7e1a693b4e9c28dfaadd8da7039e22300a550e6fd6b264f4e44567c975395",
+        "size_in_bytes": 15399,
+        "sha256_in_prefix": "41c7e1a693b4e9c28dfaadd8da7039e22300a550e6fd6b264f4e44567c975395"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/output_parsers/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e8dd3801f73f8998f9d41dd7990e5ddff60b654f4c2750fb9578705ae51ce443",
+        "size_in_bytes": 269,
+        "sha256_in_prefix": "e8dd3801f73f8998f9d41dd7990e5ddff60b654f4c2750fb9578705ae51ce443"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/output_parsers/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "cc8c7b7470256b758a11c68d64edd0474891ebc5795359e6a8b29bda1781fc40",
+        "size_in_bytes": 396,
+        "sha256_in_prefix": "cc8c7b7470256b758a11c68d64edd0474891ebc5795359e6a8b29bda1781fc40"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/output_parsers/__pycache__/tools.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "e3ffc81e6a113a53ba04a624ca765c6e02776f4de47bcd49bf010532bec21f3a",
+        "size_in_bytes": 393,
+        "sha256_in_prefix": "e3ffc81e6a113a53ba04a624ca765c6e02776f4de47bcd49bf010532bec21f3a"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/output_parsers/tools.py",
+        "path_type": "hardlink",
+        "sha256": "e8dd3801f73f8998f9d41dd7990e5ddff60b654f4c2750fb9578705ae51ce443",
+        "size_in_bytes": 269,
+        "sha256_in_prefix": "e8dd3801f73f8998f9d41dd7990e5ddff60b654f4c2750fb9578705ae51ce443"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/tools/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "cbf4b1eabb0b3ad4a6f8fa8c062e865896a078e486c3be11531dc69c253084aa",
+        "size_in_bytes": 132,
+        "sha256_in_prefix": "cbf4b1eabb0b3ad4a6f8fa8c062e865896a078e486c3be11531dc69c253084aa"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/tools/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "8ba5229d880c9cf165235b112f3f1db83cec7ac51e1657ec20b186df152b9b55",
+        "size_in_bytes": 305,
+        "sha256_in_prefix": "8ba5229d880c9cf165235b112f3f1db83cec7ac51e1657ec20b186df152b9b55"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/tools/__pycache__/custom_tool.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "f1c8739df8c9f9d09f097e7d2ab97777b6fca3ffee742bb2f9965e53b950da7d",
+        "size_in_bytes": 4311,
+        "sha256_in_prefix": "f1c8739df8c9f9d09f097e7d2ab97777b6fca3ffee742bb2f9965e53b950da7d"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_openai/tools/custom_tool.py",
+        "path_type": "hardlink",
+        "sha256": "0eb98bb11e3aa6572359a1985eeee4d86d776b2d15a818e0edf71966e953c33f",
+        "size_in_bytes": 3199,
+        "sha256_in_prefix": "0eb98bb11e3aa6572359a1985eeee4d86d776b2d15a818e0edf71966e953c33f"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\padal\\anaconda3\\pkgs\\langchain-openai-1.1.7-py313haa95532_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "name": "uuid-utils",
+  "version": "0.12.0",
+  "build": "py313h114bc41_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "uuid-utils-0.12.0-py313h114bc41_0.conda",
+  "md5": "fe5fb163a510303baadd05131b6f7e17",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/uuid-utils-0.12.0-py313h114bc41_0.conda",
+  "sha256": "9d73ffd783f75ddf52e021dfab87eea6b2181f68e2ae9d658b2aba14f28cfec5",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "timestamp": 1767784915000,
+  "size": 182444,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\padal\\anaconda3\\pkgs\\uuid-utils-0.12.0-py313h114bc41_0.conda",
+  "extracted_package_dir": "C:\\Users\\padal\\anaconda3\\pkgs\\uuid-utils-0.12.0-py313h114bc41_0",
+  "files": [
+    "Lib/site-packages/uuid_utils-0.12.0.dist-info/INSTALLER",
+    "Lib/site-packages/uuid_utils-0.12.0.dist-info/METADATA",
+    "Lib/site-packages/uuid_utils-0.12.0.dist-info/RECORD",
+    "Lib/site-packages/uuid_utils-0.12.0.dist-info/REQUESTED",
+    "Lib/site-packages/uuid_utils-0.12.0.dist-info/WHEEL",
+    "Lib/site-packages/uuid_utils-0.12.0.dist-info/direct_url.json",
+    "Lib/site-packages/uuid_utils-0.12.0.dist-info/licenses/LICENSE.md",
+    "Lib/site-packages/uuid_utils/__init__.py",
+    "Lib/site-packages/uuid_utils/__init__.pyi",
+    "Lib/site-packages/uuid_utils/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/uuid_utils/_uuid_utils.pyd",
+    "Lib/site-packages/uuid_utils/compat/__init__.py",
+    "Lib/site-packages/uuid_utils/compat/__init__.pyi",
+    "Lib/site-packages/uuid_utils/compat/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/uuid_utils/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/uuid_utils-0.12.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/uuid_utils-0.12.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "7eedc4ebe254a43aa4dc4ccefb6d75bf6528a13f74db7e060b1a4c887e55fee4",
+        "size_in_bytes": 1059,
+        "sha256_in_prefix": "7eedc4ebe254a43aa4dc4ccefb6d75bf6528a13f74db7e060b1a4c887e55fee4"
+      },
+      {
+        "_path": "Lib/site-packages/uuid_utils-0.12.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "cb07d91c4dcead5d587380073ad0c941829148dda8e6f1222ab8ca710eb7eb48",
+        "size_in_bytes": 1214,
+        "sha256_in_prefix": "cb07d91c4dcead5d587380073ad0c941829148dda8e6f1222ab8ca710eb7eb48"
+      },
+      {
+        "_path": "Lib/site-packages/uuid_utils-0.12.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/uuid_utils-0.12.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "f8ce4eee5e447334c0f1515a050b20d85a60d1d2b3d163aebe9b779c487ce9ba",
+        "size_in_bytes": 94,
+        "sha256_in_prefix": "f8ce4eee5e447334c0f1515a050b20d85a60d1d2b3d163aebe9b779c487ce9ba"
+      },
+      {
+        "_path": "Lib/site-packages/uuid_utils-0.12.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "c95c1bb0e2cbb91cf04f3fbb1deca7ebbfbf97ed5a903635f841771a1169d088",
+        "size_in_bytes": 100,
+        "sha256_in_prefix": "c95c1bb0e2cbb91cf04f3fbb1deca7ebbfbf97ed5a903635f841771a1169d088"
+      },
+      {
+        "_path": "Lib/site-packages/uuid_utils-0.12.0.dist-info/licenses/LICENSE.md",
+        "path_type": "hardlink",
+        "sha256": "0c47f52b4c484bd04c78e7c969542eea31afe644f587f3b8a8ccce86352c6046",
+        "size_in_bytes": 1487,
+        "sha256_in_prefix": "0c47f52b4c484bd04c78e7c969542eea31afe644f587f3b8a8ccce86352c6046"
+      },
+      {
+        "_path": "Lib/site-packages/uuid_utils/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d543fbfed1113be0e1f83276d25563f0c2a1d81d933cc9331f9fca1545cf4d6a",
+        "size_in_bytes": 699,
+        "sha256_in_prefix": "d543fbfed1113be0e1f83276d25563f0c2a1d81d933cc9331f9fca1545cf4d6a"
+      },
+      {
+        "_path": "Lib/site-packages/uuid_utils/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "3e9fff209a2d8529acc5d0e6c5713801afab231c94112eb07f7316d97a58dcab",
+        "size_in_bytes": 7248,
+        "sha256_in_prefix": "3e9fff209a2d8529acc5d0e6c5713801afab231c94112eb07f7316d97a58dcab"
+      },
+      {
+        "_path": "Lib/site-packages/uuid_utils/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "430173d01411b04e13d138745db826dbe0d7e5f2e4c5a05dfd646eb8c446ef18",
+        "size_in_bytes": 743,
+        "sha256_in_prefix": "430173d01411b04e13d138745db826dbe0d7e5f2e4c5a05dfd646eb8c446ef18"
+      },
+      {
+        "_path": "Lib/site-packages/uuid_utils/_uuid_utils.pyd",
+        "path_type": "hardlink",
+        "sha256": "839db69ef113d59d68e138573c4d16d0f99d40720cc3ce2e4658da077f5b63e4",
+        "size_in_bytes": 411464,
+        "sha256_in_prefix": "839db69ef113d59d68e138573c4d16d0f99d40720cc3ce2e4658da077f5b63e4"
+      },
+      {
+        "_path": "Lib/site-packages/uuid_utils/compat/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ac5ac934b0e95ddfe1cb85a4d9265165a13477af43660855da76ed8fd5ab5f63",
+        "size_in_bytes": 2090,
+        "sha256_in_prefix": "ac5ac934b0e95ddfe1cb85a4d9265165a13477af43660855da76ed8fd5ab5f63"
+      },
+      {
+        "_path": "Lib/site-packages/uuid_utils/compat/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "55688737717dd5d44ba8e0a3d3702c0fcc0e56e7d8debac52da60c352a4fc5a9",
+        "size_in_bytes": 2286,
+        "sha256_in_prefix": "55688737717dd5d44ba8e0a3d3702c0fcc0e56e7d8debac52da60c352a4fc5a9"
+      },
+      {
+        "_path": "Lib/site-packages/uuid_utils/compat/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "2172901604f888f42d2e8b44d9facb552629c4431562e82decb3e2582bf5b473",
+        "size_in_bytes": 3038,
+        "sha256_in_prefix": "2172901604f888f42d2e8b44d9facb552629c4431562e82decb3e2582bf5b473"
+      },
+      {
+        "_path": "Lib/site-packages/uuid_utils/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\padal\\anaconda3\\pkgs\\uuid-utils-0.12.0-py313h114bc41_0",
+    "type": 1
+  }
+}

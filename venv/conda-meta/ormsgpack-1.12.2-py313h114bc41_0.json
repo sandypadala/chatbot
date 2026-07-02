@@ -1,0 +1,181 @@
+{
+  "name": "ormsgpack",
+  "version": "1.12.2",
+  "build": "py313h114bc41_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "ormsgpack-1.12.2-py313h114bc41_0.conda",
+  "md5": "da60d2540d53bd2b1d81e8e4ce677973",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/ormsgpack-1.12.2-py313h114bc41_0.conda",
+  "sha256": "0312bc5db9777d7e84527af430237a8fb8d255d90c4d45665c4300d933b70117",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "MIT AND Apache-2.0",
+  "timestamp": 1769002312000,
+  "size": 131946,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\padal\\anaconda3\\pkgs\\ormsgpack-1.12.2-py313h114bc41_0.conda",
+  "extracted_package_dir": "C:\\Users\\padal\\anaconda3\\pkgs\\ormsgpack-1.12.2-py313h114bc41_0",
+  "files": [
+    "Lib/site-packages/ormsgpack-1.12.2.dist-info/INSTALLER",
+    "Lib/site-packages/ormsgpack-1.12.2.dist-info/METADATA",
+    "Lib/site-packages/ormsgpack-1.12.2.dist-info/RECORD",
+    "Lib/site-packages/ormsgpack-1.12.2.dist-info/REQUESTED",
+    "Lib/site-packages/ormsgpack-1.12.2.dist-info/WHEEL",
+    "Lib/site-packages/ormsgpack-1.12.2.dist-info/direct_url.json",
+    "Lib/site-packages/ormsgpack-1.12.2.dist-info/entry_points.txt",
+    "Lib/site-packages/ormsgpack-1.12.2.dist-info/licenses/LICENSE-APACHE",
+    "Lib/site-packages/ormsgpack-1.12.2.dist-info/licenses/LICENSE-MIT",
+    "Lib/site-packages/ormsgpack/__init__.py",
+    "Lib/site-packages/ormsgpack/__init__.pyi",
+    "Lib/site-packages/ormsgpack/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/ormsgpack/_pyinstaller/__init__.py",
+    "Lib/site-packages/ormsgpack/_pyinstaller/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/ormsgpack/_pyinstaller/__pycache__/hook-ormsgpack.cpython-313.pyc",
+    "Lib/site-packages/ormsgpack/_pyinstaller/hook-ormsgpack.py",
+    "Lib/site-packages/ormsgpack/ormsgpack.cp313-win_amd64.pyd",
+    "Lib/site-packages/ormsgpack/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/ormsgpack-1.12.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/ormsgpack-1.12.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "f5df9d02a7920758c5e9c86c28238d8e60cbe0df85084652af23f8c94e2c8f70",
+        "size_in_bytes": 3219,
+        "sha256_in_prefix": "f5df9d02a7920758c5e9c86c28238d8e60cbe0df85084652af23f8c94e2c8f70"
+      },
+      {
+        "_path": "Lib/site-packages/ormsgpack-1.12.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "be8c020513f9ade7cbaa9a664171d75a32d2bb04a2319d511f45d541697d37cb",
+        "size_in_bytes": 1511,
+        "sha256_in_prefix": "be8c020513f9ade7cbaa9a664171d75a32d2bb04a2319d511f45d541697d37cb"
+      },
+      {
+        "_path": "Lib/site-packages/ormsgpack-1.12.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/ormsgpack-1.12.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "2bb7e879517ec7f4594f270f29ad6e1351c7d9b0167b702225b8a1ad79f91e17",
+        "size_in_bytes": 96,
+        "sha256_in_prefix": "2bb7e879517ec7f4594f270f29ad6e1351c7d9b0167b702225b8a1ad79f91e17"
+      },
+      {
+        "_path": "Lib/site-packages/ormsgpack-1.12.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "da39e80e6e9e09d11577c128dfe1b5f1ee9b7ed8836aba2bf31853c2aa365585",
+        "size_in_bytes": 99,
+        "sha256_in_prefix": "da39e80e6e9e09d11577c128dfe1b5f1ee9b7ed8836aba2bf31853c2aa365585"
+      },
+      {
+        "_path": "Lib/site-packages/ormsgpack-1.12.2.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "6f86c69b1aa8d4f3ea3b8d828f3d80d97e06cb88753c2a0eca00b3792fa6db62",
+        "size_in_bytes": 63,
+        "sha256_in_prefix": "6f86c69b1aa8d4f3ea3b8d828f3d80d97e06cb88753c2a0eca00b3792fa6db62"
+      },
+      {
+        "_path": "Lib/site-packages/ormsgpack-1.12.2.dist-info/licenses/LICENSE-APACHE",
+        "path_type": "hardlink",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "size_in_bytes": 10847,
+        "sha256_in_prefix": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "_path": "Lib/site-packages/ormsgpack-1.12.2.dist-info/licenses/LICENSE-MIT",
+        "path_type": "hardlink",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "size_in_bytes": 1023,
+        "sha256_in_prefix": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      },
+      {
+        "_path": "Lib/site-packages/ormsgpack/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "fa2394d699fced78084c32b68990161d4bc2a11a261cc6f15e62900da182fafb",
+        "size_in_bytes": 1164,
+        "sha256_in_prefix": "fa2394d699fced78084c32b68990161d4bc2a11a261cc6f15e62900da182fafb"
+      },
+      {
+        "_path": "Lib/site-packages/ormsgpack/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "1218a70506c52055211871b8b69498316c7a6fec21878e74512babd09ec2a203",
+        "size_in_bytes": 947,
+        "sha256_in_prefix": "1218a70506c52055211871b8b69498316c7a6fec21878e74512babd09ec2a203"
+      },
+      {
+        "_path": "Lib/site-packages/ormsgpack/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "eeb72f6c0101164b3cc9543520c10bcb4392582c336556ad8e843dcf94f6df70",
+        "size_in_bytes": 946,
+        "sha256_in_prefix": "eeb72f6c0101164b3cc9543520c10bcb4392582c336556ad8e843dcf94f6df70"
+      },
+      {
+        "_path": "Lib/site-packages/ormsgpack/_pyinstaller/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "85c3ae772894cfe9f2d0e134f5d36c92fee05595ebb1b6f9bb08369927126c6f",
+        "size_in_bytes": 133,
+        "sha256_in_prefix": "85c3ae772894cfe9f2d0e134f5d36c92fee05595ebb1b6f9bb08369927126c6f"
+      },
+      {
+        "_path": "Lib/site-packages/ormsgpack/_pyinstaller/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "1353e149546f5b3e6ad75704ef259930338e2fbb82a8a90a89f71359c0d77fd5",
+        "size_in_bytes": 436,
+        "sha256_in_prefix": "1353e149546f5b3e6ad75704ef259930338e2fbb82a8a90a89f71359c0d77fd5"
+      },
+      {
+        "_path": "Lib/site-packages/ormsgpack/_pyinstaller/__pycache__/hook-ormsgpack.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "9614edcf0d6b1a620cafc383a6f75acaf0a8eef116d9d486305a286f79cfdff3",
+        "size_in_bytes": 209,
+        "sha256_in_prefix": "9614edcf0d6b1a620cafc383a6f75acaf0a8eef116d9d486305a286f79cfdff3"
+      },
+      {
+        "_path": "Lib/site-packages/ormsgpack/_pyinstaller/hook-ormsgpack.py",
+        "path_type": "hardlink",
+        "sha256": "47e60c2394d6121ee664b172c18489bb63f11b91deb96ac695298c6e87d2c862",
+        "size_in_bytes": 111,
+        "sha256_in_prefix": "47e60c2394d6121ee664b172c18489bb63f11b91deb96ac695298c6e87d2c862"
+      },
+      {
+        "_path": "Lib/site-packages/ormsgpack/ormsgpack.cp313-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "a7b46b016155255681a945c22dc7daae2ceef3348571b138197a9f90b53f4b30",
+        "size_in_bytes": 223048,
+        "sha256_in_prefix": "a7b46b016155255681a945c22dc7daae2ceef3348571b138197a9f90b53f4b30"
+      },
+      {
+        "_path": "Lib/site-packages/ormsgpack/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\padal\\anaconda3\\pkgs\\ormsgpack-1.12.2-py313h114bc41_0",
+    "type": 1
+  }
+}

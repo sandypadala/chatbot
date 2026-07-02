@@ -1,0 +1,412 @@
+{
+  "name": "langgraph-checkpoint",
+  "version": "4.1.0",
+  "build": "py313h4442805_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "langgraph-checkpoint-4.1.0-py313h4442805_0.conda",
+  "md5": "baf78cd751a2845ed74f9ebb0598115c",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/langgraph-checkpoint-4.1.0-py313h4442805_0.conda",
+  "sha256": "be8fcc127cc3b26f1cf0c7ba59a2be94a4e8312e4d3efbf65989dc024fb31f8e",
+  "depends": [
+    "langchain-core >=0.2.38",
+    "ormsgpack >=1.12.0",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1778673836000,
+  "size": 136340,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\padal\\anaconda3\\pkgs\\langgraph-checkpoint-4.1.0-py313h4442805_0.conda",
+  "extracted_package_dir": "C:\\Users\\padal\\anaconda3\\pkgs\\langgraph-checkpoint-4.1.0-py313h4442805_0",
+  "files": [
+    "Lib/site-packages/langgraph/cache/base/__init__.py",
+    "Lib/site-packages/langgraph/cache/base/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/langgraph/cache/base/py.typed",
+    "Lib/site-packages/langgraph/cache/memory/__init__.py",
+    "Lib/site-packages/langgraph/cache/memory/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/langgraph/cache/redis/__init__.py",
+    "Lib/site-packages/langgraph/cache/redis/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/langgraph/checkpoint/base/__init__.py",
+    "Lib/site-packages/langgraph/checkpoint/base/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/langgraph/checkpoint/base/__pycache__/id.cpython-313.pyc",
+    "Lib/site-packages/langgraph/checkpoint/base/id.py",
+    "Lib/site-packages/langgraph/checkpoint/base/py.typed",
+    "Lib/site-packages/langgraph/checkpoint/memory/__init__.py",
+    "Lib/site-packages/langgraph/checkpoint/memory/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/langgraph/checkpoint/memory/py.typed",
+    "Lib/site-packages/langgraph/checkpoint/serde/__init__.py",
+    "Lib/site-packages/langgraph/checkpoint/serde/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/langgraph/checkpoint/serde/__pycache__/_msgpack.cpython-313.pyc",
+    "Lib/site-packages/langgraph/checkpoint/serde/__pycache__/base.cpython-313.pyc",
+    "Lib/site-packages/langgraph/checkpoint/serde/__pycache__/encrypted.cpython-313.pyc",
+    "Lib/site-packages/langgraph/checkpoint/serde/__pycache__/event_hooks.cpython-313.pyc",
+    "Lib/site-packages/langgraph/checkpoint/serde/__pycache__/jsonplus.cpython-313.pyc",
+    "Lib/site-packages/langgraph/checkpoint/serde/__pycache__/types.cpython-313.pyc",
+    "Lib/site-packages/langgraph/checkpoint/serde/_msgpack.py",
+    "Lib/site-packages/langgraph/checkpoint/serde/base.py",
+    "Lib/site-packages/langgraph/checkpoint/serde/encrypted.py",
+    "Lib/site-packages/langgraph/checkpoint/serde/event_hooks.py",
+    "Lib/site-packages/langgraph/checkpoint/serde/jsonplus.py",
+    "Lib/site-packages/langgraph/checkpoint/serde/py.typed",
+    "Lib/site-packages/langgraph/checkpoint/serde/types.py",
+    "Lib/site-packages/langgraph/store/base/__init__.py",
+    "Lib/site-packages/langgraph/store/base/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/langgraph/store/base/__pycache__/batch.cpython-313.pyc",
+    "Lib/site-packages/langgraph/store/base/__pycache__/embed.cpython-313.pyc",
+    "Lib/site-packages/langgraph/store/base/batch.py",
+    "Lib/site-packages/langgraph/store/base/embed.py",
+    "Lib/site-packages/langgraph/store/base/py.typed",
+    "Lib/site-packages/langgraph/store/memory/__init__.py",
+    "Lib/site-packages/langgraph/store/memory/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/langgraph/store/memory/py.typed",
+    "Lib/site-packages/langgraph_checkpoint-4.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/langgraph_checkpoint-4.1.0.dist-info/METADATA",
+    "Lib/site-packages/langgraph_checkpoint-4.1.0.dist-info/RECORD",
+    "Lib/site-packages/langgraph_checkpoint-4.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/langgraph_checkpoint-4.1.0.dist-info/WHEEL",
+    "Lib/site-packages/langgraph_checkpoint-4.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/langgraph_checkpoint-4.1.0.dist-info/licenses/LICENSE"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/langgraph/cache/base/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b0da57a4a15b6b67a266526f167ab7d34dd997dfd15cfbf6fce0ae3fd02f5dd4",
+        "size_in_bytes": 1835,
+        "sha256_in_prefix": "b0da57a4a15b6b67a266526f167ab7d34dd997dfd15cfbf6fce0ae3fd02f5dd4"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/cache/base/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "64f781df2d231e69f9725c2977b144253412b491ddfe72570b2bc1226283a0b6",
+        "size_in_bytes": 2868,
+        "sha256_in_prefix": "64f781df2d231e69f9725c2977b144253412b491ddfe72570b2bc1226283a0b6"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/cache/base/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/cache/memory/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "839cc985739246b03553269b3004296a3593ddac782a6a6a74b170b95f5c3367",
+        "size_in_bytes": 3071,
+        "sha256_in_prefix": "839cc985739246b03553269b3004296a3593ddac782a6a6a74b170b95f5c3367"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/cache/memory/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "bb93336cedcf916261fca7ac44671c4f5dd8ba9514416729e48fd639804c57a1",
+        "size_in_bytes": 4742,
+        "sha256_in_prefix": "bb93336cedcf916261fca7ac44671c4f5dd8ba9514416729e48fd639804c57a1"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/cache/redis/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "8c16eeb1961711abf1cf8ee625d935afe4c502d745bfd2b9aa5e2269c4e4d20d",
+        "size_in_bytes": 5188,
+        "sha256_in_prefix": "8c16eeb1961711abf1cf8ee625d935afe4c502d745bfd2b9aa5e2269c4e4d20d"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/cache/redis/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "da280dbd536c86e27c9dfdd340ef2c83128b98bb7478b44e258ac554c5222f20",
+        "size_in_bytes": 6672,
+        "sha256_in_prefix": "da280dbd536c86e27c9dfdd340ef2c83128b98bb7478b44e258ac554c5222f20"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/base/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d29511015e2801630f6580353c107104d4ecc86e4bd14e15cd54e2b861a48e26",
+        "size_in_bytes": 30659,
+        "sha256_in_prefix": "d29511015e2801630f6580353c107104d4ecc86e4bd14e15cd54e2b861a48e26"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/base/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "063fb4f02e170d6389eee1560303851c618fca42973421291e1800f06ee68497",
+        "size_in_bytes": 30128,
+        "sha256_in_prefix": "063fb4f02e170d6389eee1560303851c618fca42973421291e1800f06ee68497"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/base/__pycache__/id.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "14f82e6b1cbcd29065557a6911dd1f24780ffa76a2511df71d70261afab4bf49",
+        "size_in_bytes": 4647,
+        "sha256_in_prefix": "14f82e6b1cbcd29065557a6911dd1f24780ffa76a2511df71d70261afab4bf49"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/base/id.py",
+        "path_type": "hardlink",
+        "sha256": "f4635d8f5f1e713c0f55eb111ad32a323121b318e1b2456eb5d61b305c25785b",
+        "size_in_bytes": 3647,
+        "sha256_in_prefix": "f4635d8f5f1e713c0f55eb111ad32a323121b318e1b2456eb5d61b305c25785b"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/base/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/memory/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "4d8e07be6303cb0c937c0abb37ad7c12f4f2c31e029a8d12d5dcfe84c1543b8c",
+        "size_in_bytes": 26370,
+        "sha256_in_prefix": "4d8e07be6303cb0c937c0abb37ad7c12f4f2c31e029a8d12d5dcfe84c1543b8c"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/memory/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "664d48ac1de02f0dab61fadc4f005aa675cda639c8d5dc33aec1fafafcfebdcd",
+        "size_in_bytes": 27113,
+        "sha256_in_prefix": "664d48ac1de02f0dab61fadc4f005aa675cda639c8d5dc33aec1fafafcfebdcd"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/memory/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/serde/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/serde/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "2a33848f8e41407bba6df70e6725cabd59fcd3ed38a3d469c2b2c08ad54464f4",
+        "size_in_bytes": 153,
+        "sha256_in_prefix": "2a33848f8e41407bba6df70e6725cabd59fcd3ed38a3d469c2b2c08ad54464f4"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/serde/__pycache__/_msgpack.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "ed63019b46edc8b7548a5d6e3a467d59a3efd2a4f4ec12c6247d89d7374df21a",
+        "size_in_bytes": 2406,
+        "sha256_in_prefix": "ed63019b46edc8b7548a5d6e3a467d59a3efd2a4f4ec12c6247d89d7374df21a"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/serde/__pycache__/base.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "b1d3d5935f423ac55aa7d0a85ea06fd2e3e8f81005096707b907bbe45955315d",
+        "size_in_bytes": 3859,
+        "sha256_in_prefix": "b1d3d5935f423ac55aa7d0a85ea06fd2e3e8f81005096707b907bbe45955315d"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/serde/__pycache__/encrypted.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "9db0f4a266ab9da877ef58c75e8a78fe5c60018c9bcd3f841bc71808f6d95893",
+        "size_in_bytes": 4862,
+        "sha256_in_prefix": "9db0f4a266ab9da877ef58c75e8a78fe5c60018c9bcd3f841bc71808f6d95893"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/serde/__pycache__/event_hooks.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "27f24b139e2be960a55b911487ed416003ab28b6d057c46ef9ca4804e6f33b08",
+        "size_in_bytes": 2475,
+        "sha256_in_prefix": "27f24b139e2be960a55b911487ed416003ab28b6d057c46ef9ca4804e6f33b08"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/serde/__pycache__/jsonplus.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "4007940764e0e24550e90fbfdecf06fbc807449b9894bbc11461e5cc8a399e40",
+        "size_in_bytes": 34514,
+        "sha256_in_prefix": "4007940764e0e24550e90fbfdecf06fbc807449b9894bbc11461e5cc8a399e40"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/serde/__pycache__/types.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "05a1a565401346d1d74095a24bc975ae9a32aa5fc10509a9399625141baf7ff4",
+        "size_in_bytes": 3509,
+        "sha256_in_prefix": "05a1a565401346d1d74095a24bc975ae9a32aa5fc10509a9399625141baf7ff4"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/serde/_msgpack.py",
+        "path_type": "hardlink",
+        "sha256": "0c861f9e2288b3cb886b819d264f4488e604c0213fb3838a46a641666e0edb7c",
+        "size_in_bytes": 3500,
+        "sha256_in_prefix": "0c861f9e2288b3cb886b819d264f4488e604c0213fb3838a46a641666e0edb7c"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/serde/base.py",
+        "path_type": "hardlink",
+        "sha256": "1f3bd8194dbc25ae6f8e24c14304632868d1ba42bcb9c732dc45edb61dd92bcb",
+        "size_in_bytes": 1933,
+        "sha256_in_prefix": "1f3bd8194dbc25ae6f8e24c14304632868d1ba42bcb9c732dc45edb61dd92bcb"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/serde/encrypted.py",
+        "path_type": "hardlink",
+        "sha256": "d1a15ed8f9d97f916bbc02ad51db965994ee736c81dd6af887d4f2cd17568be0",
+        "size_in_bytes": 3180,
+        "sha256_in_prefix": "d1a15ed8f9d97f916bbc02ad51db965994ee736c81dd6af887d4f2cd17568be0"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/serde/event_hooks.py",
+        "path_type": "hardlink",
+        "sha256": "437c5184fed52e229dafb367eca936b52cf4f8189af49a79e9261344d2effc92",
+        "size_in_bytes": 1235,
+        "sha256_in_prefix": "437c5184fed52e229dafb367eca936b52cf4f8189af49a79e9261344d2effc92"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/serde/jsonplus.py",
+        "path_type": "hardlink",
+        "sha256": "98e5bbecd123c16fd66763200bd365014601323ab83f63d97683153b9f3029a0",
+        "size_in_bytes": 31964,
+        "sha256_in_prefix": "98e5bbecd123c16fd66763200bd365014601323ab83f63d97683153b9f3029a0"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/serde/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/checkpoint/serde/types.py",
+        "path_type": "hardlink",
+        "sha256": "a2c029b31b149804744063033a8b116570c504de86d0b5e8f76db4b465f0c503",
+        "size_in_bytes": 1636,
+        "sha256_in_prefix": "a2c029b31b149804744063033a8b116570c504de86d0b5e8f76db4b465f0c503"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/store/base/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d4b95b0e519da3357309919399b9c7da22b17c7f2667581474f4f52a417976c5",
+        "size_in_bytes": 42764,
+        "sha256_in_prefix": "d4b95b0e519da3357309919399b9c7da22b17c7f2667581474f4f52a417976c5"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/store/base/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "3a3054071b6022243e934efa1b22ddfcd5a8c584139db762e83e9f14dbb6780c",
+        "size_in_bytes": 33266,
+        "sha256_in_prefix": "3a3054071b6022243e934efa1b22ddfcd5a8c584139db762e83e9f14dbb6780c"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/store/base/__pycache__/batch.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "355201d2cfa46c7dab982fee7dd9ce6911976b512a46b7825967b4cfe2854d4f",
+        "size_in_bytes": 14643,
+        "sha256_in_prefix": "355201d2cfa46c7dab982fee7dd9ce6911976b512a46b7825967b4cfe2854d4f"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/store/base/__pycache__/embed.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "0639aed5a571ac06873a678c938338d1b50042426d6dba8f88fda789d64d5688",
+        "size_in_bytes": 15616,
+        "sha256_in_prefix": "0639aed5a571ac06873a678c938338d1b50042426d6dba8f88fda789d64d5688"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/store/base/batch.py",
+        "path_type": "hardlink",
+        "sha256": "608df63b059d4df30c7d744993986de15ecbacc1ce91ddd74307c9660cfb3b87",
+        "size_in_bytes": 11205,
+        "sha256_in_prefix": "608df63b059d4df30c7d744993986de15ecbacc1ce91ddd74307c9660cfb3b87"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/store/base/embed.py",
+        "path_type": "hardlink",
+        "sha256": "eb940bcafbca4065ad59dd94ea50991c4b6183f6c1c57694c1670c35f2eae1aa",
+        "size_in_bytes": 14497,
+        "sha256_in_prefix": "eb940bcafbca4065ad59dd94ea50991c4b6183f6c1c57694c1670c35f2eae1aa"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/store/base/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/store/memory/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "299dbcf83eb8f14d5dc9bb39fe6262a92d931347faa246a2f4af3e58f33d611f",
+        "size_in_bytes": 21155,
+        "sha256_in_prefix": "299dbcf83eb8f14d5dc9bb39fe6262a92d931347faa246a2f4af3e58f33d611f"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/store/memory/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "e6da9f8d4627c20008b083f357339bad9609cf0db44be0d403b7756a40893dac",
+        "size_in_bytes": 27184,
+        "sha256_in_prefix": "e6da9f8d4627c20008b083f357339bad9609cf0db44be0d403b7756a40893dac"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/store/memory/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph_checkpoint-4.1.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph_checkpoint-4.1.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "0fa53edd3abbf36a3cd068d616d7e3a90dc4548ce2185d0ef246902899e2c5d4",
+        "size_in_bytes": 5208,
+        "sha256_in_prefix": "0fa53edd3abbf36a3cd068d616d7e3a90dc4548ce2185d0ef246902899e2c5d4"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph_checkpoint-4.1.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "60eb371cf8f2ede0e4b71603af2bca9c53a69c9913f5a57795f0cc4b36e26849",
+        "size_in_bytes": 3863,
+        "sha256_in_prefix": "60eb371cf8f2ede0e4b71603af2bca9c53a69c9913f5a57795f0cc4b36e26849"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph_checkpoint-4.1.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph_checkpoint-4.1.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "41c708c5adba6e097513ab8ccb9f1d7865a2fb469e22491a9e01dcc64da459fc",
+        "size_in_bytes": 87,
+        "sha256_in_prefix": "41c708c5adba6e097513ab8ccb9f1d7865a2fb469e22491a9e01dcc64da459fc"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph_checkpoint-4.1.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "e110c315d96e8562e4fb5dbe3a40beece83056208cad1ee433e7944a875c6364",
+        "size_in_bytes": 110,
+        "sha256_in_prefix": "e110c315d96e8562e4fb5dbe3a40beece83056208cad1ee433e7944a875c6364"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph_checkpoint-4.1.0.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "d9bb52f2e3540d60ff50d8f0f5b6ba649b7fd346948c4c3d086c8afb120763c7",
+        "size_in_bytes": 1072,
+        "sha256_in_prefix": "d9bb52f2e3540d60ff50d8f0f5b6ba649b7fd346948c4c3d086c8afb120763c7"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\padal\\anaconda3\\pkgs\\langgraph-checkpoint-4.1.0-py313h4442805_0",
+    "type": 1
+  }
+}

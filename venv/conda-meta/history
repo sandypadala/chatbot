@@ -1,0 +1,124 @@
+==> 2026-06-27 20:43:17 <==
+# cmd: C:\Users\padal\anaconda3\Scripts\conda-script.py create -p venv python==3.13
+# conda version: 25.11.1
++defaults/noarch::pip-26.1.2-pyhc872135_0
++defaults/noarch::tzdata-2026b-he532380_0
++defaults/win-64::bzip2-1.0.8-h2bbff1b_6
++defaults/win-64::ca-certificates-2026.5.14-haa95532_0
++defaults/win-64::expat-2.8.1-hd7fb8db_1
++defaults/win-64::libexpat-2.8.1-hd7fb8db_1
++defaults/win-64::libffi-3.4.8-h42d73b9_3
++defaults/win-64::libmpdec-4.0.1-h1c6eee0_0
++defaults/win-64::libzlib-1.3.2-h1c6eee0_0
++defaults/win-64::openssl-3.5.7-hbb43b14_0
++defaults/win-64::packaging-26.0-py313haa95532_0
++defaults/win-64::python-3.13.0-hadb2040_100_cp313
++defaults/win-64::python_abi-3.13-3_cp313
++defaults/win-64::setuptools-82.0.1-py313haa95532_0
++defaults/win-64::sqlite-3.53.2-hee5a0db_0
++defaults/win-64::tk-8.6.15-hf199647_0
++defaults/win-64::ucrt-10.0.22621.0-haa95532_0
++defaults/win-64::vc-14.3-h2df5915_12
++defaults/win-64::vc14_runtime-14.44.35208-h4927774_12
++defaults/win-64::vs2015_runtime-14.44.35208-ha6b5a95_12
++defaults/win-64::wheel-0.47.0-py313haa95532_0
++defaults/win-64::xz-5.8.2-h53af0af_0
++defaults/win-64::zlib-1.3.2-h1c6eee0_0
+# update specs: ['python==3.13']
+==> 2026-06-30 22:17:19 <==
+# cmd: C:\Users\padal\anaconda3\Scripts\conda-script.py install --prefix C:/GenAI/venv langchain -y
+# conda version: 25.11.1
++defaults/win-64::annotated-types-0.6.0-py313haa95532_1
++defaults/win-64::anyio-4.12.1-py313haa95532_0
++defaults/win-64::brotlicffi-1.2.0.0-py313h885b0b7_0
++defaults/win-64::certifi-2026.6.17-py313haa95532_0
++defaults/win-64::cffi-1.17.1-py313h827c3e9_1
++defaults/win-64::charset-normalizer-3.4.4-py313haa95532_0
++defaults/win-64::greenlet-3.3.2-py313hd7fb8db_0
++defaults/win-64::h11-0.16.0-py313haa95532_1
++defaults/win-64::httpcore-1.0.9-py313haa95532_0
++defaults/win-64::httpx-0.28.1-py313haa95532_1
++defaults/win-64::idna-3.18-py313haa95532_0
++defaults/win-64::jsonpatch-1.33-py313haa95532_1
++defaults/win-64::jsonpointer-3.1.1-py313haa95532_0
++defaults/win-64::langchain-1.2.7-py313haa95532_1
++defaults/win-64::langchain-core-1.4.3-py313haa95532_0
++defaults/win-64::langchain-protocol-0.0.18-py313haa95532_0
++defaults/win-64::langchain-text-splitters-1.1.0-py313haa95532_0
++defaults/win-64::langgraph-1.0.7-py313haa95532_2
++defaults/win-64::langgraph-checkpoint-4.1.0-py313h4442805_0
++defaults/win-64::langgraph-prebuilt-1.0.7-py313haa95532_2
++defaults/win-64::langgraph-sdk-0.3.3-py313haa95532_0
++defaults/win-64::langsmith-0.8.3-py313haa95532_0
++defaults/win-64::lz4-c-1.9.4-h1c6eee0_3
++defaults/win-64::orjson-3.11.7-py313h51239a8_0
++defaults/win-64::ormsgpack-1.12.2-py313h114bc41_0
++defaults/win-64::pycparser-3.0-py313haa95532_0
++defaults/win-64::pydantic-2.13.4-py313haa95532_0
++defaults/win-64::pydantic-core-2.46.4-py313h51239a8_0
++defaults/win-64::pysocks-1.7.1-py313haa95532_1
++defaults/win-64::python-xxhash-3.7.0-py313hf9b03d5_0
++defaults/win-64::pyyaml-6.0.3-py313hb9a58be_0
++defaults/win-64::requests-2.34.2-py313haa95532_0
++defaults/win-64::requests-toolbelt-1.0.0-py313haa95532_0
++defaults/win-64::sqlalchemy-2.0.48-py313hee5a0db_0
++defaults/win-64::tenacity-9.1.4-py313haa95532_0
++defaults/win-64::typing-extensions-4.15.0-py313haa95532_0
++defaults/win-64::typing-inspection-0.4.2-py313haa95532_0
++defaults/win-64::typing_extensions-4.15.0-py313haa95532_0
++defaults/win-64::urllib3-2.7.0-py313haa95532_0
++defaults/win-64::uuid-utils-0.12.0-py313h114bc41_0
++defaults/win-64::win_inet_pton-1.1.0-py313haa95532_1
++defaults/win-64::xxhash-0.8.0-h2bbff1b_3
++defaults/win-64::yaml-0.2.5-he774522_0
++defaults/win-64::zstandard-0.25.0-py313hb03e5ee_0
++defaults/win-64::zstd-1.5.7-h56299aa_0
+# update specs: ['langchain']
+==> 2026-06-30 22:18:20 <==
+# cmd: C:\Users\padal\anaconda3\Scripts\conda-script.py install --prefix C:/GenAI/venv langchain-openai -y
+# conda version: 25.11.1
++defaults/win-64::colorama-0.4.6-py313haa95532_0
++defaults/win-64::distro-1.9.0-py313haa95532_0
++defaults/win-64::jiter-0.12.0-py313h114bc41_0
++defaults/win-64::langchain-openai-1.1.7-py313haa95532_0
++defaults/win-64::openai-2.30.0-py313haa95532_0
++defaults/win-64::regex-2026.5.9-py313h1c6eee0_0
++defaults/win-64::sniffio-1.3.1-py313haa95532_0
++defaults/win-64::tiktoken-0.12.0-py313hb0f918e_0
++defaults/win-64::tqdm-4.68.2-py313h4442805_0
+# update specs: ['langchain-openai']
+==> 2026-06-30 22:19:05 <==
+# cmd: C:\Users\padal\anaconda3\Scripts\conda-script.py install --prefix C:/GenAI/venv python-dotenv -y
+# conda version: 25.11.1
++defaults/win-64::python-dotenv-1.2.1-py313haa95532_0
+# update specs: ['python-dotenv']
+==> 2026-06-30 22:20:37 <==
+# cmd: C:\Users\padal\anaconda3\Scripts\conda-script.py install --prefix C:/GenAI/venv fastapi -y
+# conda version: 25.11.1
++defaults/win-64::annotated-doc-0.0.4-py313haa95532_0
++defaults/win-64::click-8.4.1-py313haa95532_0
++defaults/win-64::dnspython-2.8.0-py313haa95532_0
++defaults/win-64::email-validator-2.3.0-py313haa95532_0
++defaults/win-64::fastapi-0.138.0-py313haa95532_0
++defaults/win-64::fastapi-cli-0.0.20-py313haa95532_0
++defaults/win-64::fastapi-core-0.138.0-py313haa95532_0
++defaults/win-64::fastar-0.11.0-py313h70ad099_0
++defaults/win-64::httptools-0.7.1-py313h02ab6af_0
++defaults/win-64::jinja2-3.1.6-py313haa95532_0
++defaults/win-64::markdown-it-py-4.0.0-py313haa95532_2
++defaults/win-64::markupsafe-3.0.3-py313h1c6eee0_0
++defaults/win-64::mdurl-0.1.2-py313haa95532_0
++defaults/win-64::pydantic-extra-types-2.11.0-py313haa95532_0
++defaults/win-64::pydantic-settings-2.14.2-py313haa95532_0
++defaults/win-64::pygments-2.20.0-py313haa95532_0
++defaults/win-64::python-multipart-0.0.32-py313haa95532_0
++defaults/win-64::rich-15.0.0-py313haa95532_0
++defaults/win-64::rich-toolkit-0.17.1-py313haa95532_0
++defaults/win-64::shellingham-1.5.4-py313haa95532_0
++defaults/win-64::starlette-1.2.1-py313haa95532_0
++defaults/win-64::typer-0.25.1-py313haa95532_0
++defaults/win-64::uvicorn-0.40.0-py313haa95532_0
++defaults/win-64::uvicorn-standard-0.40.0-py313haa95532_0
++defaults/win-64::watchfiles-1.2.0-py313h51239a8_0
++defaults/win-64::websockets-15.0.1-py313h827c3e9_0
+# update specs: ['fastapi']

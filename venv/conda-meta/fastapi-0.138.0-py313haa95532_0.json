@@ -1,0 +1,42 @@
+{
+  "name": "fastapi",
+  "version": "0.138.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "fastapi-0.138.0-py313haa95532_0.conda",
+  "md5": "6abe75ccfe1fec400416173e029bd095",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/fastapi-0.138.0-py313haa95532_0.conda",
+  "sha256": "f255f6a9aeb5de9cad2008f1a46c37664b6dec371e84598ce5306fff1339b866",
+  "depends": [
+    "email-validator >=2.0.0",
+    "fastapi-cli >=0.0.8",
+    "fastapi-core 0.138.0 py313haa95532_0",
+    "fastar >=0.9.0",
+    "httpx >=0.23.0,<1.0.0",
+    "jinja2 >=3.1.5",
+    "pydantic-extra-types >=2.0.0",
+    "pydantic-settings >=2.0.0",
+    "python >=3.13,<3.14.0a0",
+    "python-multipart >=0.0.18",
+    "python_abi 3.13.* *_cp313",
+    "uvicorn >=0.12.0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1782280778000,
+  "size": 219164,
+  "requested_spec": "fastapi",
+  "package_tarball_full_path": "C:\\Users\\padal\\anaconda3\\pkgs\\fastapi-0.138.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\padal\\anaconda3\\pkgs\\fastapi-0.138.0-py313haa95532_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\padal\\anaconda3\\pkgs\\fastapi-0.138.0-py313haa95532_0",
+    "type": 1
+  }
+}

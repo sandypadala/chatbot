@@ -1,0 +1,131 @@
+{
+  "name": "langchain-protocol",
+  "version": "0.0.18",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "langchain-protocol-0.0.18-py313haa95532_0.conda",
+  "md5": "33adfe0d065063688293c7522901f29b",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/langchain-protocol-0.0.18-py313haa95532_0.conda",
+  "sha256": "58b986359263766af4d653eab72147319e29652e49f4c3d437e606df19da01fd",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "typing_extensions >=4.13.0,<5.0.0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1782475621000,
+  "size": 21322,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\padal\\anaconda3\\pkgs\\langchain-protocol-0.0.18-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\padal\\anaconda3\\pkgs\\langchain-protocol-0.0.18-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/langchain_protocol-0.0.18.dist-info/INSTALLER",
+    "Lib/site-packages/langchain_protocol-0.0.18.dist-info/METADATA",
+    "Lib/site-packages/langchain_protocol-0.0.18.dist-info/RECORD",
+    "Lib/site-packages/langchain_protocol-0.0.18.dist-info/REQUESTED",
+    "Lib/site-packages/langchain_protocol-0.0.18.dist-info/WHEEL",
+    "Lib/site-packages/langchain_protocol-0.0.18.dist-info/direct_url.json",
+    "Lib/site-packages/langchain_protocol-0.0.18.dist-info/licenses/LICENSE",
+    "Lib/site-packages/langchain_protocol/__init__.py",
+    "Lib/site-packages/langchain_protocol/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/langchain_protocol/__pycache__/protocol.cpython-313.pyc",
+    "Lib/site-packages/langchain_protocol/protocol.py",
+    "Lib/site-packages/langchain_protocol/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/langchain_protocol-0.0.18.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_protocol-0.0.18.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "0f268775f934e27f1509af1203f685d17296175895fa7bb1aa5e3e0c407d1583",
+        "size_in_bytes": 2406,
+        "sha256_in_prefix": "0f268775f934e27f1509af1203f685d17296175895fa7bb1aa5e3e0c407d1583"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_protocol-0.0.18.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "6d5c2e2a37deb64a3ffc88023da923b248610e4ae9dce70ab80749da5cbf462f",
+        "size_in_bytes": 1039,
+        "sha256_in_prefix": "6d5c2e2a37deb64a3ffc88023da923b248610e4ae9dce70ab80749da5cbf462f"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_protocol-0.0.18.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_protocol-0.0.18.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "41c708c5adba6e097513ab8ccb9f1d7865a2fb469e22491a9e01dcc64da459fc",
+        "size_in_bytes": 87,
+        "sha256_in_prefix": "41c708c5adba6e097513ab8ccb9f1d7865a2fb469e22491a9e01dcc64da459fc"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_protocol-0.0.18.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "09fc04a77057ff7287d332cdae8cc5e77fd6daf1165fae602e7ae500104a8ac7",
+        "size_in_bytes": 108,
+        "sha256_in_prefix": "09fc04a77057ff7287d332cdae8cc5e77fd6daf1165fae602e7ae500104a8ac7"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_protocol-0.0.18.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "893e6e30275896912c21c77f9f7c112aba85fd985d05b26a29424cf7e511d177",
+        "size_in_bytes": 1072,
+        "sha256_in_prefix": "893e6e30275896912c21c77f9f7c112aba85fd985d05b26a29424cf7e511d177"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_protocol/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c20e74ecb8c0f713e9c62e65184e1cb3c9de891501e9429f32a61faf5b1584da",
+        "size_in_bytes": 123,
+        "sha256_in_prefix": "c20e74ecb8c0f713e9c62e65184e1cb3c9de891501e9429f32a61faf5b1584da"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_protocol/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "77c18a3b0c10fee0ec3f93883e7fdb2d44757157c54a39df99a6be304e9a94c4",
+        "size_in_bytes": 271,
+        "sha256_in_prefix": "77c18a3b0c10fee0ec3f93883e7fdb2d44757157c54a39df99a6be304e9a94c4"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_protocol/__pycache__/protocol.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "df5dd04294320869ead998591cfaf4b02444e4ab11dd137d754326f2b00a5cd6",
+        "size_in_bytes": 31373,
+        "sha256_in_prefix": "df5dd04294320869ead998591cfaf4b02444e4ab11dd137d754326f2b00a5cd6"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_protocol/protocol.py",
+        "path_type": "hardlink",
+        "sha256": "a225234763858df01fb5f20e2a696bbae1e134252a44aef74c82339858bcc089",
+        "size_in_bytes": 18858,
+        "sha256_in_prefix": "a225234763858df01fb5f20e2a696bbae1e134252a44aef74c82339858bcc089"
+      },
+      {
+        "_path": "Lib/site-packages/langchain_protocol/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\padal\\anaconda3\\pkgs\\langchain-protocol-0.0.18-py313haa95532_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "name": "python-xxhash",
+  "version": "3.7.0",
+  "build": "py313hf9b03d5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "python-xxhash-3.7.0-py313hf9b03d5_0.conda",
+  "md5": "3a2931a2badda19b2115470258a7286b",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/python-xxhash-3.7.0-py313hf9b03d5_0.conda",
+  "sha256": "70a393ca43928c183eb400a8c1f1f71a9445235ccfe129d9d82943ceb69a9f02",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208",
+    "xxhash >=0.8.0,<0.8.1.0a0"
+  ],
+  "constrains": [],
+  "license": "BSD-2-Clause",
+  "timestamp": 1780406843000,
+  "size": 32200,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\padal\\anaconda3\\pkgs\\python-xxhash-3.7.0-py313hf9b03d5_0.conda",
+  "extracted_package_dir": "C:\\Users\\padal\\anaconda3\\pkgs\\python-xxhash-3.7.0-py313hf9b03d5_0",
+  "files": [
+    "Lib/site-packages/xxhash-3.7.0.dist-info/INSTALLER",
+    "Lib/site-packages/xxhash-3.7.0.dist-info/METADATA",
+    "Lib/site-packages/xxhash-3.7.0.dist-info/RECORD",
+    "Lib/site-packages/xxhash-3.7.0.dist-info/REQUESTED",
+    "Lib/site-packages/xxhash-3.7.0.dist-info/WHEEL",
+    "Lib/site-packages/xxhash-3.7.0.dist-info/direct_url.json",
+    "Lib/site-packages/xxhash-3.7.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/xxhash-3.7.0.dist-info/top_level.txt",
+    "Lib/site-packages/xxhash/__init__.py",
+    "Lib/site-packages/xxhash/__init__.pyi",
+    "Lib/site-packages/xxhash/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/xxhash/__pycache__/version.cpython-313.pyc",
+    "Lib/site-packages/xxhash/_xxhash.cp313-win_amd64.pyd",
+    "Lib/site-packages/xxhash/py.typed",
+    "Lib/site-packages/xxhash/version.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/xxhash-3.7.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/xxhash-3.7.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "b79949bca8e0c7eee7c5c6a850a8cc0d4fa83e92f08a606147dd08a13e97f137",
+        "size_in_bytes": 13854,
+        "sha256_in_prefix": "b79949bca8e0c7eee7c5c6a850a8cc0d4fa83e92f08a606147dd08a13e97f137"
+      },
+      {
+        "_path": "Lib/site-packages/xxhash-3.7.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "7ca2b62d7098e098b3dfcee3b6c87e0033b3d0a00bad97b14956058505394127",
+        "size_in_bytes": 1149,
+        "sha256_in_prefix": "7ca2b62d7098e098b3dfcee3b6c87e0033b3d0a00bad97b14956058505394127"
+      },
+      {
+        "_path": "Lib/site-packages/xxhash-3.7.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/xxhash-3.7.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c795a9c3fb4bc793d02a259dc69aafb347bb4a0f923b499359d1000d80c63c60",
+        "size_in_bytes": 101,
+        "sha256_in_prefix": "c795a9c3fb4bc793d02a259dc69aafb347bb4a0f923b499359d1000d80c63c60"
+      },
+      {
+        "_path": "Lib/site-packages/xxhash-3.7.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "d79ec0cb6d25d2958e0dc4933010cd605a3b3af0f8eb7e72fe7e4d5c709b1d6d",
+        "size_in_bytes": 103,
+        "sha256_in_prefix": "d79ec0cb6d25d2958e0dc4933010cd605a3b3af0f8eb7e72fe7e4d5c709b1d6d"
+      },
+      {
+        "_path": "Lib/site-packages/xxhash-3.7.0.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "b3c620adc9a8812cc0c3c7fc09567fa9a9930d3546de955dfb955b168cf989ac",
+        "size_in_bytes": 1313,
+        "sha256_in_prefix": "b3c620adc9a8812cc0c3c7fc09567fa9a9930d3546de955dfb955b168cf989ac"
+      },
+      {
+        "_path": "Lib/site-packages/xxhash-3.7.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "d4f3d204ffa09e31b9f44e5b8a0ccc4f3993e815568c7c27a733228ac3d66792",
+        "size_in_bytes": 15,
+        "sha256_in_prefix": "d4f3d204ffa09e31b9f44e5b8a0ccc4f3993e815568c7c27a733228ac3d66792"
+      },
+      {
+        "_path": "Lib/site-packages/xxhash/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "98f11d8a1c43314d2b8cb5ae9b716b53d51ada343eaf37dec1880883e27e2657",
+        "size_in_bytes": 1147,
+        "sha256_in_prefix": "98f11d8a1c43314d2b8cb5ae9b716b53d51ada343eaf37dec1880883e27e2657"
+      },
+      {
+        "_path": "Lib/site-packages/xxhash/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "c2d508c75913a9e8b93d13db6927c2adac7dbfd1371a81876b950de6cff52727",
+        "size_in_bytes": 1899,
+        "sha256_in_prefix": "c2d508c75913a9e8b93d13db6927c2adac7dbfd1371a81876b950de6cff52727"
+      },
+      {
+        "_path": "Lib/site-packages/xxhash/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "ea17d1eec79fff2d140cca77d748b179ea7af913343c77ba47752262b9d10f0f",
+        "size_in_bytes": 989,
+        "sha256_in_prefix": "ea17d1eec79fff2d140cca77d748b179ea7af913343c77ba47752262b9d10f0f"
+      },
+      {
+        "_path": "Lib/site-packages/xxhash/__pycache__/version.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "4d1b23bbaa1ef926fb60b4cd18d4e4472a8761cb0b4287959832374b6b1da9bd",
+        "size_in_bytes": 195,
+        "sha256_in_prefix": "4d1b23bbaa1ef926fb60b4cd18d4e4472a8761cb0b4287959832374b6b1da9bd"
+      },
+      {
+        "_path": "Lib/site-packages/xxhash/_xxhash.cp313-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "228861294dc0d132f37667e68c641d266396c9ed2c90022c7daef2d21a1a92b3",
+        "size_in_bytes": 45896,
+        "sha256_in_prefix": "228861294dc0d132f37667e68c641d266396c9ed2c90022c7daef2d21a1a92b3"
+      },
+      {
+        "_path": "Lib/site-packages/xxhash/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/xxhash/version.py",
+        "path_type": "hardlink",
+        "sha256": "9db348d1563b7dafccabb3839e7058aa439da1b10fc3b93f8dfddceb380356f2",
+        "size_in_bytes": 101,
+        "sha256_in_prefix": "9db348d1563b7dafccabb3839e7058aa439da1b10fc3b93f8dfddceb380356f2"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\padal\\anaconda3\\pkgs\\python-xxhash-3.7.0-py313hf9b03d5_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "name": "annotated-types",
+  "version": "0.6.0",
+  "build": "py313haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "annotated-types-0.6.0-py313haa95532_1.conda",
+  "md5": "2c7171d6d58b9364b4406ab1c85ee50b",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/annotated-types-0.6.0-py313haa95532_1.conda",
+  "sha256": "7aeb1d587bd7ad0faad1bbb3c5e5a0a4a584fc6c226fa33682e60aa76fc2ddb2",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1761745147000,
+  "size": 26185,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\padal\\anaconda3\\pkgs\\annotated-types-0.6.0-py313haa95532_1.conda",
+  "extracted_package_dir": "C:\\Users\\padal\\anaconda3\\pkgs\\annotated-types-0.6.0-py313haa95532_1",
+  "files": [
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/INSTALLER",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/METADATA",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/RECORD",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/REQUESTED",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/WHEEL",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/direct_url.json",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/annotated_types/__init__.py",
+    "Lib/site-packages/annotated_types/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/annotated_types/__pycache__/test_cases.cpython-313.pyc",
+    "Lib/site-packages/annotated_types/py.typed",
+    "Lib/site-packages/annotated_types/test_cases.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/annotated_types-0.6.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/annotated_types-0.6.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "a612fa8c4067f205398ca5cfd244d95ac794808e04b6da0a2e949206832d427b",
+        "size_in_bytes": 12879,
+        "sha256_in_prefix": "a612fa8c4067f205398ca5cfd244d95ac794808e04b6da0a2e949206832d427b"
+      },
+      {
+        "_path": "Lib/site-packages/annotated_types-0.6.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "7e11621fae1ec98067541d7d0dadae5900ce51f62cf98ed1938f31342039e30a",
+        "size_in_bytes": 1001,
+        "sha256_in_prefix": "7e11621fae1ec98067541d7d0dadae5900ce51f62cf98ed1938f31342039e30a"
+      },
+      {
+        "_path": "Lib/site-packages/annotated_types-0.6.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/annotated_types-0.6.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+        "size_in_bytes": 87,
+        "sha256_in_prefix": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724"
+      },
+      {
+        "_path": "Lib/site-packages/annotated_types-0.6.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "2d98bd567f1fbf0003d3873ec597e755cdc4828a6dcb013c9f8c860ba0792724",
+        "size_in_bytes": 93,
+        "sha256_in_prefix": "2d98bd567f1fbf0003d3873ec597e755cdc4828a6dcb013c9f8c860ba0792724"
+      },
+      {
+        "_path": "Lib/site-packages/annotated_types-0.6.0.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "fe1049884b1a0d9342901e88e07f32925d24b3121d9972b6a6805fb9824b095d",
+        "size_in_bytes": 1083,
+        "sha256_in_prefix": "fe1049884b1a0d9342901e88e07f32925d24b3121d9972b6a6805fb9824b095d"
+      },
+      {
+        "_path": "Lib/site-packages/annotated_types/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b712e846df224a201cf92bb7edeb16a4c234c058cdf7657b804e4774521e78a2",
+        "size_in_bytes": 12151,
+        "sha256_in_prefix": "b712e846df224a201cf92bb7edeb16a4c234c058cdf7657b804e4774521e78a2"
+      },
+      {
+        "_path": "Lib/site-packages/annotated_types/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "1c4eefc0e92dad36bb4dcf6624249cd32cc36275aefaaa3bb9fdeba7827224f1",
+        "size_in_bytes": 16485,
+        "sha256_in_prefix": "1c4eefc0e92dad36bb4dcf6624249cd32cc36275aefaaa3bb9fdeba7827224f1"
+      },
+      {
+        "_path": "Lib/site-packages/annotated_types/__pycache__/test_cases.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "cac13e09b34958d0e5cf9aed5cefd8e23f8a03c67cc6d9aa7b33b07bc4c2de96",
+        "size_in_bytes": 13065,
+        "sha256_in_prefix": "cac13e09b34958d0e5cf9aed5cefd8e23f8a03c67cc6d9aa7b33b07bc4c2de96"
+      },
+      {
+        "_path": "Lib/site-packages/annotated_types/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/annotated_types/test_cases.py",
+        "path_type": "hardlink",
+        "sha256": "2df172511670afb5f73557e80ab49748c3314f1243e28f17cfe63ca9b998ec95",
+        "size_in_bytes": 6327,
+        "sha256_in_prefix": "2df172511670afb5f73557e80ab49748c3314f1243e28f17cfe63ca9b998ec95"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\padal\\anaconda3\\pkgs\\annotated-types-0.6.0-py313haa95532_1",
+    "type": 1
+  }
+}

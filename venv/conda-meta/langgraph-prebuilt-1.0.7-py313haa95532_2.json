@@ -1,0 +1,182 @@
+{
+  "name": "langgraph-prebuilt",
+  "version": "1.0.7",
+  "build": "py313haa95532_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "langgraph-prebuilt-1.0.7-py313haa95532_2.conda",
+  "md5": "1ef6f36233e1e9299efaff0752d8f3c8",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/langgraph-prebuilt-1.0.7-py313haa95532_2.conda",
+  "sha256": "048f090ac24710ab923c01861894c51ebead84a0a9bc85aa6d4d8da890908053",
+  "depends": [
+    "langchain",
+    "langchain-core >=1.0.0",
+    "langgraph",
+    "langgraph-checkpoint >=2.1.0,<5.0.0",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1770123124000,
+  "size": 98455,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\padal\\anaconda3\\pkgs\\langgraph-prebuilt-1.0.7-py313haa95532_2.conda",
+  "extracted_package_dir": "C:\\Users\\padal\\anaconda3\\pkgs\\langgraph-prebuilt-1.0.7-py313haa95532_2",
+  "files": [
+    "Lib/site-packages/langgraph/prebuilt/__init__.py",
+    "Lib/site-packages/langgraph/prebuilt/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/langgraph/prebuilt/__pycache__/chat_agent_executor.cpython-313.pyc",
+    "Lib/site-packages/langgraph/prebuilt/__pycache__/interrupt.cpython-313.pyc",
+    "Lib/site-packages/langgraph/prebuilt/__pycache__/tool_node.cpython-313.pyc",
+    "Lib/site-packages/langgraph/prebuilt/__pycache__/tool_validator.cpython-313.pyc",
+    "Lib/site-packages/langgraph/prebuilt/chat_agent_executor.py",
+    "Lib/site-packages/langgraph/prebuilt/interrupt.py",
+    "Lib/site-packages/langgraph/prebuilt/py.typed",
+    "Lib/site-packages/langgraph/prebuilt/tool_node.py",
+    "Lib/site-packages/langgraph/prebuilt/tool_validator.py",
+    "Lib/site-packages/langgraph_prebuilt-1.0.7.dist-info/INSTALLER",
+    "Lib/site-packages/langgraph_prebuilt-1.0.7.dist-info/METADATA",
+    "Lib/site-packages/langgraph_prebuilt-1.0.7.dist-info/RECORD",
+    "Lib/site-packages/langgraph_prebuilt-1.0.7.dist-info/REQUESTED",
+    "Lib/site-packages/langgraph_prebuilt-1.0.7.dist-info/WHEEL",
+    "Lib/site-packages/langgraph_prebuilt-1.0.7.dist-info/direct_url.json",
+    "Lib/site-packages/langgraph_prebuilt-1.0.7.dist-info/licenses/LICENSE"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/langgraph/prebuilt/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "707be54483ffa3340c2c4f99cecc1c08c06a92ce345b39ce4792b211bd9f01ee",
+        "size_in_bytes": 527,
+        "sha256_in_prefix": "707be54483ffa3340c2c4f99cecc1c08c06a92ce345b39ce4792b211bd9f01ee"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/prebuilt/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "16713c6efa95232aca54f450a17e721efcd529b9f5f5425825e9ec3719c7bb04",
+        "size_in_bytes": 638,
+        "sha256_in_prefix": "16713c6efa95232aca54f450a17e721efcd529b9f5f5425825e9ec3719c7bb04"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/prebuilt/__pycache__/chat_agent_executor.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "6bb4d22c76be3514bf89712d523496f36dbf4d0d35531a34bbccc2226ff38381",
+        "size_in_bytes": 39236,
+        "sha256_in_prefix": "6bb4d22c76be3514bf89712d523496f36dbf4d0d35531a34bbccc2226ff38381"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/prebuilt/__pycache__/interrupt.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "c7dea2c93632819001f49fb4ed8c09f0056ee65cb47c212d70b373af5184d692",
+        "size_in_bytes": 4788,
+        "sha256_in_prefix": "c7dea2c93632819001f49fb4ed8c09f0056ee65cb47c212d70b373af5184d692"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/prebuilt/__pycache__/tool_node.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "5f81b682d2dee12da8809d31e2c63881a1e14741c1551dcc4583718a51ee1c4b",
+        "size_in_bytes": 65928,
+        "sha256_in_prefix": "5f81b682d2dee12da8809d31e2c63881a1e14741c1551dcc4583718a51ee1c4b"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/prebuilt/__pycache__/tool_validator.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "a0d06991eb2ee69105430bfc7b90d5b09f386e315ea4c39848a0c44d88346a87",
+        "size_in_bytes": 10345,
+        "sha256_in_prefix": "a0d06991eb2ee69105430bfc7b90d5b09f386e315ea4c39848a0c44d88346a87"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/prebuilt/chat_agent_executor.py",
+        "path_type": "hardlink",
+        "sha256": "6fb369acc1744d9d564910546eb666d4983beb4e96f61972430ad50f12aeba84",
+        "size_in_bytes": 39590,
+        "sha256_in_prefix": "6fb369acc1744d9d564910546eb666d4983beb4e96f61972430ad50f12aeba84"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/prebuilt/interrupt.py",
+        "path_type": "hardlink",
+        "sha256": "4ec639c642ccfb76eeaff602557ee88cc3dc31e9dfbc7b1721510184f07bd044",
+        "size_in_bytes": 3975,
+        "sha256_in_prefix": "4ec639c642ccfb76eeaff602557ee88cc3dc31e9dfbc7b1721510184f07bd044"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/prebuilt/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/prebuilt/tool_node.py",
+        "path_type": "hardlink",
+        "sha256": "342b650b97c0a996661324564087625ed901f622ccd1b3c3d7eab33f24214267",
+        "size_in_bytes": 71169,
+        "sha256_in_prefix": "342b650b97c0a996661324564087625ed901f622ccd1b3c3d7eab33f24214267"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph/prebuilt/tool_validator.py",
+        "path_type": "hardlink",
+        "sha256": "97e2986e28e39711b00016757db2bfc0720e9905d8c4a4e28aecec1376c3c250",
+        "size_in_bytes": 9089,
+        "sha256_in_prefix": "97e2986e28e39711b00016757db2bfc0720e9905d8c4a4e28aecec1376c3c250"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph_prebuilt-1.0.7.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph_prebuilt-1.0.7.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "9edff749e67bfaa67eed1408257194070213a2cc76699eddc7acbc3cee1b668e",
+        "size_in_bytes": 5191,
+        "sha256_in_prefix": "9edff749e67bfaa67eed1408257194070213a2cc76699eddc7acbc3cee1b668e"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph_prebuilt-1.0.7.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "33e5b4d25c443e596a7aaaa95582052b32961e60a64d451ed0792dcda40dc274",
+        "size_in_bytes": 1512,
+        "sha256_in_prefix": "33e5b4d25c443e596a7aaaa95582052b32961e60a64d451ed0792dcda40dc274"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph_prebuilt-1.0.7.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph_prebuilt-1.0.7.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+        "size_in_bytes": 87,
+        "sha256_in_prefix": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph_prebuilt-1.0.7.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "468f0921934ad4afbedd41c88127cb82d6c4f50698c0343093c59b70d0148421",
+        "size_in_bytes": 108,
+        "sha256_in_prefix": "468f0921934ad4afbedd41c88127cb82d6c4f50698c0343093c59b70d0148421"
+      },
+      {
+        "_path": "Lib/site-packages/langgraph_prebuilt-1.0.7.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "d9bb52f2e3540d60ff50d8f0f5b6ba649b7fd346948c4c3d086c8afb120763c7",
+        "size_in_bytes": 1072,
+        "sha256_in_prefix": "d9bb52f2e3540d60ff50d8f0f5b6ba649b7fd346948c4c3d086c8afb120763c7"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\padal\\anaconda3\\pkgs\\langgraph-prebuilt-1.0.7-py313haa95532_2",
+    "type": 1
+  }
+}

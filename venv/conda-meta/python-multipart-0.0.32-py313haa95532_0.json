@@ -1,0 +1,226 @@
+{
+  "name": "python-multipart",
+  "version": "0.0.32",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "python-multipart-0.0.32-py313haa95532_0.conda",
+  "md5": "de4ee556040f9194b6d2d4468a45583e",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/python-multipart-0.0.32-py313haa95532_0.conda",
+  "sha256": "b851bd8aa655f46e5c8ba8ea41a07c39bbc21b4bc014582b68608cbac2520f63",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "timestamp": 1782399656000,
+  "size": 76568,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\padal\\anaconda3\\pkgs\\python-multipart-0.0.32-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\padal\\anaconda3\\pkgs\\python-multipart-0.0.32-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/multipart/__init__.py",
+    "Lib/site-packages/multipart/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/multipart/__pycache__/decoders.cpython-313.pyc",
+    "Lib/site-packages/multipart/__pycache__/exceptions.cpython-313.pyc",
+    "Lib/site-packages/multipart/__pycache__/multipart.cpython-313.pyc",
+    "Lib/site-packages/multipart/decoders.py",
+    "Lib/site-packages/multipart/exceptions.py",
+    "Lib/site-packages/multipart/multipart.py",
+    "Lib/site-packages/python_multipart-0.0.32.dist-info/INSTALLER",
+    "Lib/site-packages/python_multipart-0.0.32.dist-info/METADATA",
+    "Lib/site-packages/python_multipart-0.0.32.dist-info/RECORD",
+    "Lib/site-packages/python_multipart-0.0.32.dist-info/REQUESTED",
+    "Lib/site-packages/python_multipart-0.0.32.dist-info/WHEEL",
+    "Lib/site-packages/python_multipart-0.0.32.dist-info/direct_url.json",
+    "Lib/site-packages/python_multipart-0.0.32.dist-info/licenses/LICENSE.txt",
+    "Lib/site-packages/python_multipart/__init__.py",
+    "Lib/site-packages/python_multipart/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/python_multipart/__pycache__/decoders.cpython-313.pyc",
+    "Lib/site-packages/python_multipart/__pycache__/exceptions.cpython-313.pyc",
+    "Lib/site-packages/python_multipart/__pycache__/multipart.cpython-313.pyc",
+    "Lib/site-packages/python_multipart/decoders.py",
+    "Lib/site-packages/python_multipart/exceptions.py",
+    "Lib/site-packages/python_multipart/multipart.py",
+    "Lib/site-packages/python_multipart/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/multipart/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "81b63b5bd35476c1596afa7e88a42ba0de05c689df66ace89242d6e41de39d9d",
+        "size_in_bytes": 1474,
+        "sha256_in_prefix": "81b63b5bd35476c1596afa7e88a42ba0de05c689df66ace89242d6e41de39d9d"
+      },
+      {
+        "_path": "Lib/site-packages/multipart/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "28c9e43f2e8f42e62dee7cc3620dbbcdda533eef8f6fe1a5a7dc7134fd177d0b",
+        "size_in_bytes": 1326,
+        "sha256_in_prefix": "28c9e43f2e8f42e62dee7cc3620dbbcdda533eef8f6fe1a5a7dc7134fd177d0b"
+      },
+      {
+        "_path": "Lib/site-packages/multipart/__pycache__/decoders.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "93db616bac9f109d2aa319497ef801a369c00a796b6ec6f0de7be0a1579eab3a",
+        "size_in_bytes": 183,
+        "sha256_in_prefix": "93db616bac9f109d2aa319497ef801a369c00a796b6ec6f0de7be0a1579eab3a"
+      },
+      {
+        "_path": "Lib/site-packages/multipart/__pycache__/exceptions.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "1afb166ae3adde64b7bae304daa910869f56be8c319f1fcec94a64b8471f8f09",
+        "size_in_bytes": 187,
+        "sha256_in_prefix": "1afb166ae3adde64b7bae304daa910869f56be8c319f1fcec94a64b8471f8f09"
+      },
+      {
+        "_path": "Lib/site-packages/multipart/__pycache__/multipart.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "b69e24eb0d357ea17d0f086894d7ef01bb13f9fb2b76de1010e3e66aa44dd827",
+        "size_in_bytes": 185,
+        "sha256_in_prefix": "b69e24eb0d357ea17d0f086894d7ef01bb13f9fb2b76de1010e3e66aa44dd827"
+      },
+      {
+        "_path": "Lib/site-packages/multipart/decoders.py",
+        "path_type": "hardlink",
+        "sha256": "5ef900c1353d5053e25e4734864be8bc77f45ba1f7bcafb689e5a585abf4da14",
+        "size_in_bytes": 40,
+        "sha256_in_prefix": "5ef900c1353d5053e25e4734864be8bc77f45ba1f7bcafb689e5a585abf4da14"
+      },
+      {
+        "_path": "Lib/site-packages/multipart/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "e83fd7fac7a23a63009487a21a53c652cf3ebe972f20625e4327053036f57fb0",
+        "size_in_bytes": 42,
+        "sha256_in_prefix": "e83fd7fac7a23a63009487a21a53c652cf3ebe972f20625e4327053036f57fb0"
+      },
+      {
+        "_path": "Lib/site-packages/multipart/multipart.py",
+        "path_type": "hardlink",
+        "sha256": "f1f0c7d788ff54c6eb721ff9f309738badd7340446bfcd2439903237bd9a1bb0",
+        "size_in_bytes": 41,
+        "sha256_in_prefix": "f1f0c7d788ff54c6eb721ff9f309738badd7340446bfcd2439903237bd9a1bb0"
+      },
+      {
+        "_path": "Lib/site-packages/python_multipart-0.0.32.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/python_multipart-0.0.32.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "e9d399d7dea5eddf0e4d24b5c24687a82e7e50bf2c2b30f8f8a06a64d887dd86",
+        "size_in_bytes": 2131,
+        "sha256_in_prefix": "e9d399d7dea5eddf0e4d24b5c24687a82e7e50bf2c2b30f8f8a06a64d887dd86"
+      },
+      {
+        "_path": "Lib/site-packages/python_multipart-0.0.32.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "d975466666a7b1d10f03bc9a190cda7eed6d30bca92dd578fd4c6ca3205d6428",
+        "size_in_bytes": 1827,
+        "sha256_in_prefix": "d975466666a7b1d10f03bc9a190cda7eed6d30bca92dd578fd4c6ca3205d6428"
+      },
+      {
+        "_path": "Lib/site-packages/python_multipart-0.0.32.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/python_multipart-0.0.32.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "41c708c5adba6e097513ab8ccb9f1d7865a2fb469e22491a9e01dcc64da459fc",
+        "size_in_bytes": 87,
+        "sha256_in_prefix": "41c708c5adba6e097513ab8ccb9f1d7865a2fb469e22491a9e01dcc64da459fc"
+      },
+      {
+        "_path": "Lib/site-packages/python_multipart-0.0.32.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "d9039903a7ac0aa30dc380bdac4641b5f0db581efcb049826bd94d66ca1bf419",
+        "size_in_bytes": 106,
+        "sha256_in_prefix": "d9039903a7ac0aa30dc380bdac4641b5f0db581efcb049826bd94d66ca1bf419"
+      },
+      {
+        "_path": "Lib/site-packages/python_multipart-0.0.32.dist-info/licenses/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "size_in_bytes": 11358,
+        "sha256_in_prefix": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+      },
+      {
+        "_path": "Lib/site-packages/python_multipart/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "aabe42368f87e12de550253ad7f876fc57334ae51d8f32bfd44e1a6b4ea414fa",
+        "size_in_bytes": 937,
+        "sha256_in_prefix": "aabe42368f87e12de550253ad7f876fc57334ae51d8f32bfd44e1a6b4ea414fa"
+      },
+      {
+        "_path": "Lib/site-packages/python_multipart/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "49292f91cb97eab14cb4daa7207d993440381ed22cc38d28e5e65ca91fe1780b",
+        "size_in_bytes": 407,
+        "sha256_in_prefix": "49292f91cb97eab14cb4daa7207d993440381ed22cc38d28e5e65ca91fe1780b"
+      },
+      {
+        "_path": "Lib/site-packages/python_multipart/__pycache__/decoders.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "db26061f9ecaff2fc5e5a2aef266872a88d21fb4362c0b5b27feff71821d0da7",
+        "size_in_bytes": 8182,
+        "sha256_in_prefix": "db26061f9ecaff2fc5e5a2aef266872a88d21fb4362c0b5b27feff71821d0da7"
+      },
+      {
+        "_path": "Lib/site-packages/python_multipart/__pycache__/exceptions.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "a020c7eb8f307d99e219b25845fb646b0872cb871d4602e1b1e6aaa440f34aaf",
+        "size_in_bytes": 2157,
+        "sha256_in_prefix": "a020c7eb8f307d99e219b25845fb646b0872cb871d4602e1b1e6aaa440f34aaf"
+      },
+      {
+        "_path": "Lib/site-packages/python_multipart/__pycache__/multipart.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "d0b9b67de96a7e0b1000ed034f1398f12151c1f70ec60d364b85223a3860e28f",
+        "size_in_bytes": 69032,
+        "sha256_in_prefix": "d0b9b67de96a7e0b1000ed034f1398f12151c1f70ec60d364b85223a3860e28f"
+      },
+      {
+        "_path": "Lib/site-packages/python_multipart/decoders.py",
+        "path_type": "hardlink",
+        "sha256": "7499b0491c68c1de57a77b3ce9a22953c7ff639e4aaf41f87f9c20bd27227443",
+        "size_in_bytes": 6676,
+        "sha256_in_prefix": "7499b0491c68c1de57a77b3ce9a22953c7ff639e4aaf41f87f9c20bd27227443"
+      },
+      {
+        "_path": "Lib/site-packages/python_multipart/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "53494d063851e1d408f7bcd5d36690a542d06c38e32eac9693dd21e4dac2c560",
+        "size_in_bytes": 954,
+        "sha256_in_prefix": "53494d063851e1d408f7bcd5d36690a542d06c38e32eac9693dd21e4dac2c560"
+      },
+      {
+        "_path": "Lib/site-packages/python_multipart/multipart.py",
+        "path_type": "hardlink",
+        "sha256": "3b3cb7649a83cc96ba7f80a0b22538c4ef4339be4f3d5c944ab4fbd9185f9fa2",
+        "size_in_bytes": 79407,
+        "sha256_in_prefix": "3b3cb7649a83cc96ba7f80a0b22538c4ef4339be4f3d5c944ab4fbd9185f9fa2"
+      },
+      {
+        "_path": "Lib/site-packages/python_multipart/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\padal\\anaconda3\\pkgs\\python-multipart-0.0.32-py313haa95532_0",
+    "type": 1
+  }
+}

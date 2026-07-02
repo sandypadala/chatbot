@@ -1,0 +1,117 @@
+{
+  "name": "jiter",
+  "version": "0.12.0",
+  "build": "py313h114bc41_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "jiter-0.12.0-py313h114bc41_0.conda",
+  "md5": "e4a8ded259e4807efe3f846cbc713b75",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jiter-0.12.0-py313h114bc41_0.conda",
+  "sha256": "f39d48b2e608459feb932a21598c24ab04c9c32099a6aab94d5a08d7002aa082",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1762897503000,
+  "size": 181327,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\padal\\anaconda3\\pkgs\\jiter-0.12.0-py313h114bc41_0.conda",
+  "extracted_package_dir": "C:\\Users\\padal\\anaconda3\\pkgs\\jiter-0.12.0-py313h114bc41_0",
+  "files": [
+    "Lib/site-packages/jiter-0.12.0.dist-info/INSTALLER",
+    "Lib/site-packages/jiter-0.12.0.dist-info/METADATA",
+    "Lib/site-packages/jiter-0.12.0.dist-info/RECORD",
+    "Lib/site-packages/jiter-0.12.0.dist-info/REQUESTED",
+    "Lib/site-packages/jiter-0.12.0.dist-info/WHEEL",
+    "Lib/site-packages/jiter-0.12.0.dist-info/direct_url.json",
+    "Lib/site-packages/jiter-0.12.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/jiter/__init__.py",
+    "Lib/site-packages/jiter/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/jiter/jiter.cp313-win_amd64.pyd"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/jiter-0.12.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/jiter-0.12.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "d7467fb05913f174a0104858565a6e29283e51c495b8ec7f05e2e2ec2aa16960",
+        "size_in_bytes": 5236,
+        "sha256_in_prefix": "d7467fb05913f174a0104858565a6e29283e51c495b8ec7f05e2e2ec2aa16960"
+      },
+      {
+        "_path": "Lib/site-packages/jiter-0.12.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "d637a3c4a5d125aaea99acbad278c1365da6ce0db739dc5576366cd4614e2620",
+        "size_in_bytes": 782,
+        "sha256_in_prefix": "d637a3c4a5d125aaea99acbad278c1365da6ce0db739dc5576366cd4614e2620"
+      },
+      {
+        "_path": "Lib/site-packages/jiter-0.12.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/jiter-0.12.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "2bb7e879517ec7f4594f270f29ad6e1351c7d9b0167b702225b8a1ad79f91e17",
+        "size_in_bytes": 96,
+        "sha256_in_prefix": "2bb7e879517ec7f4594f270f29ad6e1351c7d9b0167b702225b8a1ad79f91e17"
+      },
+      {
+        "_path": "Lib/site-packages/jiter-0.12.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "a7119ced0b235bef5ded564ff13a761331caa5df69a68c37211b52e6d0affc4f",
+        "size_in_bytes": 83,
+        "sha256_in_prefix": "a7119ced0b235bef5ded564ff13a761331caa5df69a68c37211b52e6d0affc4f"
+      },
+      {
+        "_path": "Lib/site-packages/jiter-0.12.0.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "7c7134b9f7b978c03fca875517cf398db91f19bbb8109b6685e742aa3f57468e",
+        "size_in_bytes": 1091,
+        "sha256_in_prefix": "7c7134b9f7b978c03fca875517cf398db91f19bbb8109b6685e742aa3f57468e"
+      },
+      {
+        "_path": "Lib/site-packages/jiter/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "169f4790e8b18986034a20bff34be6889fec0a80864fc380878f3296d9b494fd",
+        "size_in_bytes": 103,
+        "sha256_in_prefix": "169f4790e8b18986034a20bff34be6889fec0a80864fc380878f3296d9b494fd"
+      },
+      {
+        "_path": "Lib/site-packages/jiter/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "bc0063080afd05b40573428ae13e27d388d0aca2bcc35973990da51c88c80c4e",
+        "size_in_bytes": 305,
+        "sha256_in_prefix": "bc0063080afd05b40573428ae13e27d388d0aca2bcc35973990da51c88c80c4e"
+      },
+      {
+        "_path": "Lib/site-packages/jiter/jiter.cp313-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "56147f28cd1972aab64d70d05af5c1c7c90e4edf380cac06073a2d77e1ca2768",
+        "size_in_bytes": 468296,
+        "sha256_in_prefix": "56147f28cd1972aab64d70d05af5c1c7c90e4edf380cac06073a2d77e1ca2768"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\padal\\anaconda3\\pkgs\\jiter-0.12.0-py313h114bc41_0",
+    "type": 1
+  }
+}

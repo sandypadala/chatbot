@@ -1,0 +1,155 @@
+{
+  "name": "jsonpatch",
+  "version": "1.33",
+  "build": "py313haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "jsonpatch-1.33-py313haa95532_1.conda",
+  "md5": "8c5fff5a1d8d36890bc5a297c1445785",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jsonpatch-1.33-py313haa95532_1.conda",
+  "sha256": "d25504515f356dc8c06dbf73ce598ba7b327431edf6ca1b06fa9a184a786ea04",
+  "depends": [
+    "jsonpointer >=1.9",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "timestamp": 1729054823000,
+  "size": 61903,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\padal\\anaconda3\\pkgs\\jsonpatch-1.33-py313haa95532_1.conda",
+  "extracted_package_dir": "C:\\Users\\padal\\anaconda3\\pkgs\\jsonpatch-1.33-py313haa95532_1",
+  "files": [
+    "Lib/site-packages/__pycache__/jsonpatch.cpython-313.pyc",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/AUTHORS",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/INSTALLER",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/LICENSE",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/METADATA",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/RECORD",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/REQUESTED",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/WHEEL",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/direct_url.json",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/top_level.txt",
+    "Lib/site-packages/jsonpatch.py",
+    "Scripts/jsondiff-script.py",
+    "Scripts/jsondiff.exe",
+    "Scripts/jsonpatch-script.py",
+    "Scripts/jsonpatch.exe"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/jsonpatch.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "686422502e3b69673f6bf24fe653451e29d5d0ca740892698cc7ec396a6750fa",
+        "size_in_bytes": 35309,
+        "sha256_in_prefix": "686422502e3b69673f6bf24fe653451e29d5d0ca740892698cc7ec396a6750fa"
+      },
+      {
+        "_path": "Lib/site-packages/jsonpatch-1.33.dist-info/AUTHORS",
+        "path_type": "hardlink",
+        "sha256": "84eb449c119b7c37a02a3ccc0c4979bee549c9ccdb2363e5604da1a382e318d4",
+        "size_in_bytes": 140,
+        "sha256_in_prefix": "84eb449c119b7c37a02a3ccc0c4979bee549c9ccdb2363e5604da1a382e318d4"
+      },
+      {
+        "_path": "Lib/site-packages/jsonpatch-1.33.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/jsonpatch-1.33.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "4393eb6733fa1e367f41769b382f4f1be7bf0daeb1e243ed92b3f5d8bafd236f",
+        "size_in_bytes": 1481,
+        "sha256_in_prefix": "4393eb6733fa1e367f41769b382f4f1be7bf0daeb1e243ed92b3f5d8bafd236f"
+      },
+      {
+        "_path": "Lib/site-packages/jsonpatch-1.33.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "fe4be8cc006d86bd48c568846b88c54b9c39fa671463107e6dff652e5c21b393",
+        "size_in_bytes": 3020,
+        "sha256_in_prefix": "fe4be8cc006d86bd48c568846b88c54b9c39fa671463107e6dff652e5c21b393"
+      },
+      {
+        "_path": "Lib/site-packages/jsonpatch-1.33.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "dc47959d70f6c414fd6a60bb6249138222e3089b3960736691a4654d5d919988",
+        "size_in_bytes": 1034,
+        "sha256_in_prefix": "dc47959d70f6c414fd6a60bb6249138222e3089b3960736691a4654d5d919988"
+      },
+      {
+        "_path": "Lib/site-packages/jsonpatch-1.33.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/jsonpatch-1.33.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "0075fab56937a96b9c7bbbca2eb8fb967ba554711d5a896d81aba8f1b8025e05",
+        "size_in_bytes": 109,
+        "sha256_in_prefix": "0075fab56937a96b9c7bbbca2eb8fb967ba554711d5a896d81aba8f1b8025e05"
+      },
+      {
+        "_path": "Lib/site-packages/jsonpatch-1.33.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "cbb78644a12551014237a2435e1b6baccf5f56d07bb863dae23e9ec314b97a5e",
+        "size_in_bytes": 117,
+        "sha256_in_prefix": "cbb78644a12551014237a2435e1b6baccf5f56d07bb863dae23e9ec314b97a5e"
+      },
+      {
+        "_path": "Lib/site-packages/jsonpatch-1.33.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "cdcbe223b321e00bef3c1a6029907311d81b561fdec2c7ef4b6b77fb072c9cde",
+        "size_in_bytes": 10,
+        "sha256_in_prefix": "cdcbe223b321e00bef3c1a6029907311d81b561fdec2c7ef4b6b77fb072c9cde"
+      },
+      {
+        "_path": "Lib/site-packages/jsonpatch.py",
+        "path_type": "hardlink",
+        "sha256": "57be766f2e6f8d4ddc79dfd49e17352ed7768e07284b5da4aca69210fb3ba5fe",
+        "size_in_bytes": 29778,
+        "sha256_in_prefix": "57be766f2e6f8d4ddc79dfd49e17352ed7768e07284b5da4aca69210fb3ba5fe"
+      },
+      {
+        "_path": "Scripts/jsondiff-script.py",
+        "path_type": "hardlink",
+        "sha256": "7c271d86143c05c9dda562da1c634a404cf036cbc92f88e93b92f375f3347b9f",
+        "size_in_bytes": 1218,
+        "sha256_in_prefix": "7c271d86143c05c9dda562da1c634a404cf036cbc92f88e93b92f375f3347b9f"
+      },
+      {
+        "_path": "Scripts/jsondiff.exe",
+        "path_type": "hardlink",
+        "sha256": "f24d102084620e54fe68d07f6e9169118b283f8d33d0c8f4b974c2e05a306059",
+        "size_in_bytes": 54032,
+        "sha256_in_prefix": "f24d102084620e54fe68d07f6e9169118b283f8d33d0c8f4b974c2e05a306059"
+      },
+      {
+        "_path": "Scripts/jsonpatch-script.py",
+        "path_type": "hardlink",
+        "sha256": "15373f21734d83cfa93d3fd4ecbd0315d47fecadd7fd0a9b8b915b790def62a0",
+        "size_in_bytes": 3945,
+        "sha256_in_prefix": "15373f21734d83cfa93d3fd4ecbd0315d47fecadd7fd0a9b8b915b790def62a0"
+      },
+      {
+        "_path": "Scripts/jsonpatch.exe",
+        "path_type": "hardlink",
+        "sha256": "f24d102084620e54fe68d07f6e9169118b283f8d33d0c8f4b974c2e05a306059",
+        "size_in_bytes": 54032,
+        "sha256_in_prefix": "f24d102084620e54fe68d07f6e9169118b283f8d33d0c8f4b974c2e05a306059"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\padal\\anaconda3\\pkgs\\jsonpatch-1.33-py313haa95532_1",
+    "type": 1
+  }
+}

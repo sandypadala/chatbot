@@ -1,0 +1,134 @@
+{
+  "name": "fastar",
+  "version": "0.11.0",
+  "build": "py313h70ad099_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "fastar-0.11.0-py313h70ad099_0.conda",
+  "md5": "eac6c1da46b3e3343966703520f71000",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/fastar-0.11.0-py313h70ad099_0.conda",
+  "sha256": "b4fd7b6ea7868cd521046520120a865373e1f99d91c6bd4a43ce2c30ad68627e",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208",
+    "zstd >=1.5.7,<1.6.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1782205927000,
+  "size": 437741,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\padal\\anaconda3\\pkgs\\fastar-0.11.0-py313h70ad099_0.conda",
+  "extracted_package_dir": "C:\\Users\\padal\\anaconda3\\pkgs\\fastar-0.11.0-py313h70ad099_0",
+  "files": [
+    "Lib/site-packages/fastar-0.11.0.dist-info/INSTALLER",
+    "Lib/site-packages/fastar-0.11.0.dist-info/METADATA",
+    "Lib/site-packages/fastar-0.11.0.dist-info/RECORD",
+    "Lib/site-packages/fastar-0.11.0.dist-info/REQUESTED",
+    "Lib/site-packages/fastar-0.11.0.dist-info/WHEEL",
+    "Lib/site-packages/fastar-0.11.0.dist-info/direct_url.json",
+    "Lib/site-packages/fastar-0.11.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/fastar/__init__.py",
+    "Lib/site-packages/fastar/__init__.pyi",
+    "Lib/site-packages/fastar/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/fastar/fastar.cp313-win_amd64.pyd",
+    "Lib/site-packages/fastar/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/fastar-0.11.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/fastar-0.11.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "40b14a2c1873c4fb3d5b3013748e3bf9c0d6abecfaf8d8873a234bfed4dafc23",
+        "size_in_bytes": 4002,
+        "sha256_in_prefix": "40b14a2c1873c4fb3d5b3013748e3bf9c0d6abecfaf8d8873a234bfed4dafc23"
+      },
+      {
+        "_path": "Lib/site-packages/fastar-0.11.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "e81c6fd6d07551a9e0080f80c886b5b4929c676dee448371ed88317e05958116",
+        "size_in_bytes": 941,
+        "sha256_in_prefix": "e81c6fd6d07551a9e0080f80c886b5b4929c676dee448371ed88317e05958116"
+      },
+      {
+        "_path": "Lib/site-packages/fastar-0.11.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/fastar-0.11.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "b729d2dac4a49fc03faf7d060c730ee3494ab3c564eac6be41f5ae800a49e990",
+        "size_in_bytes": 97,
+        "sha256_in_prefix": "b729d2dac4a49fc03faf7d060c730ee3494ab3c564eac6be41f5ae800a49e990"
+      },
+      {
+        "_path": "Lib/site-packages/fastar-0.11.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "8a5ca429f4b1ba0b0ae81a73c9666a97e816ffec498d78ab898e9e4d6d3bbd22",
+        "size_in_bytes": 96,
+        "sha256_in_prefix": "8a5ca429f4b1ba0b0ae81a73c9666a97e816ffec498d78ab898e9e4d6d3bbd22"
+      },
+      {
+        "_path": "Lib/site-packages/fastar-0.11.0.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "ad8190a4c8a252857920fbdefd246fd04f828bc04c8f44da36ce634aedddeb1a",
+        "size_in_bytes": 1054,
+        "sha256_in_prefix": "ad8190a4c8a252857920fbdefd246fd04f828bc04c8f44da36ce634aedddeb1a"
+      },
+      {
+        "_path": "Lib/site-packages/fastar/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "994da2649fbe728a2bc3d3d62812b525b53d0bf37912a09943e6fb62f3c5056c",
+        "size_in_bytes": 107,
+        "sha256_in_prefix": "994da2649fbe728a2bc3d3d62812b525b53d0bf37912a09943e6fb62f3c5056c"
+      },
+      {
+        "_path": "Lib/site-packages/fastar/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "cd13f2d26ff10a2ecae41f57b5c95f6e6cac2547c7838349ccf652d0ea936f7d",
+        "size_in_bytes": 5482,
+        "sha256_in_prefix": "cd13f2d26ff10a2ecae41f57b5c95f6e6cac2547c7838349ccf652d0ea936f7d"
+      },
+      {
+        "_path": "Lib/site-packages/fastar/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "b889b08e6e9ee565caaaa4db453793c8b62070f0bb873eebc3f65d7de5ca4d78",
+        "size_in_bytes": 307,
+        "sha256_in_prefix": "b889b08e6e9ee565caaaa4db453793c8b62070f0bb873eebc3f65d7de5ca4d78"
+      },
+      {
+        "_path": "Lib/site-packages/fastar/fastar.cp313-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "dbf4abb146bdbd6c222ba8eecb5d19d747aeae42879d4b01d936d19deabbb0d1",
+        "size_in_bytes": 1132872,
+        "sha256_in_prefix": "dbf4abb146bdbd6c222ba8eecb5d19d747aeae42879d4b01d936d19deabbb0d1"
+      },
+      {
+        "_path": "Lib/site-packages/fastar/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\padal\\anaconda3\\pkgs\\fastar-0.11.0-py313h70ad099_0",
+    "type": 1
+  }
+}
