@@ -1,9 +1,6 @@
 from pathlib import Path
 import os
 from dotenv import load_dotenv
-from langchain_openai import ChatOpenAI
-from langchain_core.prompts import ChatPromptTemplate
-from langchain_core.output_parsers import StrOutputParser
 
 env_path = Path(__file__).resolve().parents[1] / ".env"
 load_dotenv(dotenv_path=env_path)
@@ -11,12 +8,17 @@ load_dotenv(dotenv_path=env_path)
 
 def get_api_key():
     api_key = os.getenv("OPENAI_API_KEY")
-    if not api_key:
-        api_key = input("Enter your OpenAI API Key: ").strip()
-    return api_key
+    if api_key:
+        return api_key
+    raise RuntimeError("OPENAI_API_KEY environment variable is not set.")
 
 
 def get_llm():
+    try:
+        from langchain_openai import ChatOpenAI
+    except Exception as exc:
+        raise RuntimeError("LangChain/OpenAI dependencies are missing or incompatible.") from exc
+
     return ChatOpenAI(
         model="gpt-4o-mini",
         api_key=get_api_key(),
@@ -25,6 +27,11 @@ def get_llm():
 
 
 def build_conversation():
+    try:
+        from langchain_core.prompts import ChatPromptTemplate
+    except Exception as exc:
+        raise RuntimeError("LangChain prompt dependencies are missing or incompatible.") from exc
+
     return ChatPromptTemplate.from_messages(
         [
             (
@@ -39,6 +46,12 @@ def build_conversation():
 def build_chain(llm=None):
     if llm is None:
         llm = get_llm()
+
+    try:
+        from langchain_core.output_parsers import StrOutputParser
+    except Exception as exc:
+        raise RuntimeError("LangChain output parser dependencies are missing or incompatible.") from exc
+
     prompt_template = build_conversation()
     return prompt_template | llm | StrOutputParser()
 

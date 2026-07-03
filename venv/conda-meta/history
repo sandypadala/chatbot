@@ -122,3 +122,9 @@
 +defaults/win-64::watchfiles-1.2.0-py313h51239a8_0
 +defaults/win-64::websockets-15.0.1-py313h827c3e9_0
 # update specs: ['fastapi']
+==> 2026-07-03 20:41:19 <==
+# cmd: C:\Users\padal\anaconda3\Scripts\conda-script.py install --prefix C:/GenAI/venv langchain-core -y
+# conda version: 25.11.1
+-defaults/win-64::langchain-core-1.4.3-py313haa95532_0
++defaults/win-64::langchain-core-1.4.8-py313haa95532_0
+# update specs: ['langchain-core']

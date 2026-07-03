@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from backend.chatbot import generate_response
@@ -22,12 +22,15 @@ class ChatResponse(BaseModel):
     reply: str
 
 
-@app.get("/health")
+@app.get("/api/health")
 def health():
     return {"status": "ok"}
 
 
-@app.post("/chat", response_model=ChatResponse)
+@app.post("/api/chat", response_model=ChatResponse)
 def chat(req: ChatRequest):
-    reply = generate_response(req.message)
+    try:
+        reply = generate_response(req.message)
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=str(exc)) from exc
     return ChatResponse(reply=reply)

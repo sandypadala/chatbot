@@ -1,1 +1,1 @@
-from .chatbot import generate_response
+"""Backend package for the chat application."""

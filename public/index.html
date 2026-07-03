@@ -67,15 +67,21 @@
         input.value = '';
 
         try {
-          const response = await fetch('http://localhost:8000/chat', {
+          const response = await fetch('/api/chat', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ message: text })
           });
+
+          if (!response.ok) {
+            const errorData = await response.json().catch(() => ({}));
+            throw new Error(errorData.detail || 'The request failed.');
+          }
+
           const data = await response.json();
           addMessage('assistant', data.reply);
         } catch (err) {
-          addMessage('assistant', 'Sorry, the backend is unavailable.');
+          addMessage('assistant', err.message || 'Sorry, the backend is unavailable.');
         }
       });
     </script>
